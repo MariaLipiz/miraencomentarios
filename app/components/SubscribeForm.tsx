@@ -24,7 +24,7 @@ export default function SubscribeForm() {
   };
 
   return (
-    <form onSubmit={handleSubmit} className="flex flex-col items-center gap-4">
+    <form onSubmit={handleSubmit} className="flex  items-center gap-4">
       <input
         type="email"
         placeholder="Tu email"
