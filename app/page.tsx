@@ -1,101 +1,139 @@
-import Image from "next/image";
+import SubscribeForm from '@/components/SubscribeForm';
+
 
 export default function Home() {
   return (
-    <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-      <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="https://nextjs.org/icons/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-          <li className="mb-2">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
-              app/page.tsx
-            </code>
-            .
-          </li>
-          <li>Save and see your changes instantly.</li>
-        </ol>
+    <main className="flex flex-col items-center justify-center p-6 gap-4 text-center">
+      <h1 className="text-4xl sm:text-5xl font-bold">
+        María Lípiz - Copywriter
+      </h1>
+      <h2 className="text-xl sm:text-2xl max-w-3xl font-semibold ">
+        Cada día un email para ayudarte a <strong className="text-red-500">ligar y vender</strong> 
+      </h2>
+      <h2 className="text-lg sm:text-xl max-w-3xl font-semibold ">
+        más y mejor 
+      </h2>
+      
+      
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Mis amigos dicen que quieren ser como yo.
+      </p>
 
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="https://nextjs.org/icons/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:min-w-44"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
-        </div>
-      </main>
-      <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
-    </div>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Mi novio: que compró mercancia defectuosa.
+      </p>
+
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        ¿Quién tiene razón?
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Ni puta idea.
+      </p>
+      
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        No me considero coach de ligoteo. Ni gurú de las ventas. Ni me ha contratado Apple para hacer la redacción 
+        publicitaria de su próxima campaña.
+      </p>
+
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Si te soy sincera, ni siquiera sé lo que estoy haciendo.
+      </p>
+
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Solo sé que me gusta escribir.
+      </p>
+
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Ah, y ver Firts Dates.
+      </p>
+      
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Un día, con 22 años y un disgusto amoroso a las espaldas, escribí una
+        descripción en Tinder tan jodidamente buena y directa (o tan terrible según algunos ignorantes) que capté la atención 
+        de muchos tios maravillos, entre ellos mi actual novio. 
+      </p>
+
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Atención que, dado que mis fotos eran una puta mierda, no hubiese conseguido en mil años.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Se ofendió mucha gente, dicho sea de paso.
+      </p>
+      
+      
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Para conseguirlo:
+        </p>
+      
+        <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Escribí lo que me pareció mas gracioso e hiriente en ese momento y funcionó.
+        </p>
+        <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Podría decirse que hice un trabajo accidental de copywriting.
+      </p>
+        <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Ahora que lo pienso, igual ser mujer tuvo algo que ver...
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Bueno en fin, que me voy del tema.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        De rebote, con esa experiencia y en años sucesivos aplicando las mismas técnicas de escritura a todos los aspectos 
+        de mi vida, incluidos los negocios, me llevé un montón de buenas enseñanzas.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        <strong>Enseñanzas que tú también puedes aplicar</strong> para encontrar la pareja que buscas o tener un negocio mas rentable, seas quien seas.
+      </p>
+      
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Si sabes escribir para follar, sabes escribir para ganar dinero.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Si sabes escribir para ganar dinero, sabes escribir para follar.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Ahora voy a poner eso en práctica contigo.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Sí, contigo.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Voy a ligar contigo.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Voy a venderte algo.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Seas hombre, mujer o periquito. Voy a hacerlo.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+       ¿Lo mejor?
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal mb-6">
+       Voy a conseguirlo, no con el objetivo de ganar dinero (que también), sinó para que tú también puedas aprovechar 
+       estas experiencias y aplicarlas para <strong>tener éxito.</strong> 
+      </p>
+      
+
+      <h2 className="text-xl sm:text-2xl max-w-3xl font-semibold mb-6">
+        Lo qué te llevas si te apuntas hoy:
+      </h2>
+      
+    
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        — Enseñanzas vitales PROBADAS en Tinder y en la vida que harán que <strong>ligues/vendas más (y mejor).</strong>
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        — Acceso a <strong>productos exclusivos</strong> no solicitados que sacaré cuando me parezca.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal mb-6">
+        — <strong>Una simple frase que me repitieron mis exnovios cuando les conocí y que NUNCA debes decir</strong> cuanto ligues con alguién o vendas algún producto, y que si alguien 
+        te la dice puedes estar seguro de que tienes delante a un casi algo, un sucio infiel, una persona desequilibrada
+        o un mal cliente.
+      </p>
+
+      <SubscribeForm />
+      
+    </main>
   );
 }
