@@ -18,7 +18,7 @@ export default function SuccessPage() {
           Cito textual:
         </p>
         <p className="text-base sm:text-lg  font-normal">
-          -Excusatio non petita, accusatio manifesta-
+          "Excusatio non petita, accusatio manifesta"
         </p>
         
         <p className="text-base sm:text-lg  font-normal">
