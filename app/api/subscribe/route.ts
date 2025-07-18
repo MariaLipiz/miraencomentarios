@@ -17,49 +17,87 @@ export async function POST(req: Request) {
     await resend.emails.send({
       from: 'maria@escribeligavende.com',
       to: email,
-      subject: '🔥 Bienvenido a Escribe, liga y vende 🔥',
+      subject: 'Oye tú',
       html: `
         <div style="font-size: 1.125rem; line-height: 1.6; color: #0E0E0E; background-color: #ffffff; padding: 20px;">
-          <p>¡Ey!</p>
-          <p>Acabas de apuntarte a <strong>Escribe, liga y vende</strong>, el lugar donde aprenderás a escribir para follar, vender y, de paso, reírte un rato.</p>
+          <p>Igual te has apuntado para insultarme.</p>
+          <p>Si es así, arriba tienes el buzón de insultos.</p>
+          <p>No me conoces de nada.</p>
+          <p>Ni yo a ti.</p>
+          <p>Quizas eres hombre/mujer/gay/rojo.</p>
           
-          <p>Aquí no vas a encontrar:</p>
-          <ul>
-            <li>❌ Frases motivacionales vacías</li>
-            <li>❌ Promesas de millonario en 30 días</li>
-            <li>❌ Coaching barato de postureo</li>
-          </ul>
+          <p>O lo que es peor:</p>
+
+          <p>No te comes una rosca y te dedicas a culpar al mundo por tu situación y a llorar como un princeso.</p>
+
+          <p>Te compadezco.</p>
+
+          <p>Bueno, en realidad no.</p>
+
+          <p>En realidad me la pela.</p>
+
+          <p>Para eso estás aquí.</p>
+
+          <p>Para dejar de llorar.</p>
+
+          <p>Porque estás aquí para eso, ¿No?</p>
+
+          <p>En fín, que me lío.</p>
+
+          <p>Tengo algo para ti.</p>
+
+          <p>Algo que te puede servir si eres hombre/mujer/gay/rojo</p>
+
+          <p>También sirve si quieres encontrar personas aptas para follar, encontrar pareja o buscar una suegra mejor.</p>
+
+          <p>A mí me fue de puta madre para no volver a toparme con un casi algo.</p>
+
+          <p>Imagínate.</p>
+          <p><a href="https://escribeligavende.com/frase-de-la-muerte" style="color: #0E0E0E; text-decoration: underline;">SABIDURÍA POPULAR</a></p>
           
-          <p>Aquí vas a encontrar:</p>
-          <ul>
-            <li>✅ Ideas crudas, directas y útiles</li>
-            <li>✅ Experimentos reales que hice yo misma</li>
-            <li>✅ Emails que te harán pensar (o cabrearte)</li>
-          </ul>
-    
-          <p>Prepárate. Voy a ligar contigo, y sí, también te voy a vender algo.</p>
-          <p>Un abrazo (o un tortazo, según el día),<br><strong>María</strong></p>
         </div>
       `,
       text: `
-    ¡Ey!
-    
-    Acabas de apuntarte a "Escribe, liga y vende", el lugar donde aprenderás a escribir para follar, vender y, de paso, reírte un rato.
-    
-    Aquí no vas a encontrar:
-    ❌ Frases motivacionales vacías
-    ❌ Promesas de millonario en 30 días
-    ❌ Coaching barato de postureo
-    
-    Aquí vas a encontrar:
-    ✅ Ideas crudas, directas y útiles
-    ✅ Experimentos reales que hice yo misma
-    ✅ Emails que te harán pensar (o cabrearte)
-    
-    Prepárate. Voy a ligar contigo, y sí, también te voy a vender algo.
-    
-    Un abrazo (o un tortazo, según el día),
-    María
+    Igual te has apuntado para insultarme.
+
+Si es así, arriba tienes el buzón de insultos.
+
+No me conoces de nada.
+
+Ni yo a ti.
+
+Quizas eres hombre/mujer/gay/rojo.
+
+O lo que es peor:
+
+No te comes una rosca y te dedicas a culpar al mundo por tu situación.
+
+Te compadezco.
+
+Bueno, en realidad no.
+
+Me la pela completamente.
+
+Para eso estás aquí.
+
+Para dejar de llorar.
+
+Porque estás aquí para eso, ¿No?
+
+En fin, que me lío.
+
+Tengo algo para ti.
+
+Algo que te puede servir si eres hombre/mujer/gay/rojo.
+
+También sirve si quieres encontrar personas aptas para follar, encontrar pareja o buscar una suegra mejor.
+
+A mí me fue de puta madre para no volver a toparme con un casi algo.
+
+SABIDURÍA POPULAR: https://escribeligavende.com/frase-de-la-muerte
+
+Imagínate.
+
     `
     });
 
