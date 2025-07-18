@@ -61,11 +61,18 @@ export default function Sobremi() {
       </p>
 
       <p className="text-base sm:text-lg max-w-3xl font-normal">
-        En su día, también me gustaba ligar y observar a la gente.
+        En su día, me gustaba ligar y observar a la gente.
       </p>
 
       <p className="text-base sm:text-lg max-w-3xl font-normal">
          Bueno, esto último lo sigo haciendo.
+      </p>
+
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+         También me gustaba leer libros de ligoteo y apareamiento. 
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+         Para ponerlos en práctica, ya sabes.
       </p>
 
       <p className="text-base sm:text-lg max-w-3xl font-normal">
