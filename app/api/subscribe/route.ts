@@ -57,7 +57,7 @@ export async function POST(req: Request) {
 
           <p style="font-size: 0.75rem; color: #888888; margin-top: 20px;">
           Si no quieres recibir más emails míos, puedes 
-          <a href="https://escribeligavende.com/unsubscribe?email={{email}}" style="color: #888888; text-decoration: underline;">
+          <a href="{{{RESEND_UNSUBSCRIBE_URL}}}" style="color: #888888; text-decoration: underline;">
           darte de baja aquí
           </a>.
           </p>
