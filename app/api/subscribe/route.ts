@@ -19,7 +19,7 @@ export async function POST(req: Request) {
       to: email,
       subject: 'Oye tú',
       html: `
-        <div style="font-size: 1.125rem; line-height: 1.6; color: #0E0E0E; background-color: #ffffff; padding: 20px;">
+        <div style="font-size: 1rem; line-height: 1.6; color: #0E0E0E; background-color: #ffffff; padding: 20px;">
           <p>Igual te has apuntado para insultarme.</p>
           <p>Si es así, arriba tienes el buzón de insultos.</p>
           <p>No me conoces de nada.</p>
@@ -53,6 +53,7 @@ export async function POST(req: Request) {
           <p>A mí me fue de puta madre para no volver a toparme con un casi algo.</p>
 
           <p>Imagínate.</p>
+
           <p><a href="https://escribeligavende.com/frase-de-la-muerte" style="color: #0E0E0E; text-decoration: underline;">SABIDURÍA POPULAR</a></p>
 
           
