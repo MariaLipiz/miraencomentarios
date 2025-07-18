@@ -15,7 +15,7 @@ export async function POST(req: Request) {
 
     // Enviar email de bienvenida
     await resend.emails.send({
-      from: 'maria@escribeligavende.com',
+      from: 'María Lípiz <maria@escribeligavende.com>',
       to: email,
       subject: 'Oye tú',
       html: `
