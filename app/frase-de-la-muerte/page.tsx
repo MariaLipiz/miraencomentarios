@@ -1,4 +1,4 @@
-export default function SuccessPage() {
+export default function Frasedelamuerte() {
     return (
       <main className="flex flex-col items-start justify-start px-6 sm:px-12 lg:px-52 py-12 gap-5">
         <h1 className="text-4xl sm:text-5xl font-bold mb-6 mb-6">La red flag definitiva</h1>
@@ -12,20 +12,20 @@ export default function SuccessPage() {
           Sabiduría popular.
         </p>
         <p className="text-base sm:text-lg  font-normal">
-          Hay una frase de origen medieval. 
+          Hay una frase de origen medieval.
         </p>
         <p className="text-base sm:text-lg  font-normal">
           Cito textual:
         </p>
         <p className="text-base sm:text-lg  font-normal">
-        'Excusatio non petita, accusatio manifesta'
+          &apos;Excusatio non petita, accusatio manifesta&apos;
         </p>
-        
+  
         <p className="text-base sm:text-lg  font-normal">
           Viene a decir algo como:
         </p>
         <p className="text-base sm:text-lg  font-normal">
-        'Quien se excusa, se acusa'
+          &apos;Quien se excusa, se acusa&apos;
         </p>
         <p className="text-base sm:text-lg  font-normal">
           ¿Que coño tiene esto que ver?
@@ -37,19 +37,19 @@ export default function SuccessPage() {
           Cuando tú no tienes nada que ocultar, no necesitas excusarte de nada.
         </p>
         <p className="text-base sm:text-lg  font-normal">
-          Cuando tú eres de "x" forma, no lo dices.
+          Cuando tú eres de &quot;x&quot; forma, no lo dices.
         </p>
         <p className="text-base sm:text-lg  font-normal">
-          Cuando tú estas seguro de tu valor, lo demuestras.
+          Cuando tú estás seguro de tu valor, lo demuestras.
         </p>
-        
+  
         <p className="text-base sm:text-lg  font-normal">
           Con actos, no con palabras.
         </p>
         <p className="text-base sm:text-lg  font-normal">
           Imagina que te viene un vendedor a vender su producto.
         </p>
-        
+  
         <p className="text-base sm:text-lg  font-normal">
           Y ese vendedor te dice que su producto no es como los demás.
         </p>
@@ -59,44 +59,42 @@ export default function SuccessPage() {
         <p className="text-base sm:text-lg  font-normal">
           Que ese hombre te está vendiendo humo.
         </p>
-
+  
         <p className="text-base sm:text-lg  font-normal">
-          Entonces, ¿Por qué coño cuando el tio/tia/tie que nos gusta nos dice que no es como los demás nos reimos como si tuviesemos algún tipo de 
+          Entonces, ¿Por qué coño cuando el tio/tia/tie que nos gusta nos dice que no es como los demás nos reímos como si tuviésemos algún tipo de
           retraso mental y lo dejamos pasar?
         </p>
         <p className="text-base sm:text-lg  font-normal">
           No lo entiendo.
         </p>
-
+  
         <p className="text-base sm:text-lg  font-normal">
-          Una cosa que me enseñó mi larga trayectoria en Tinder es que si alguién suelta esto por su boca... 
+          Una cosa que me enseñó mi larga trayectoria en Tinder es que si alguien suelta esto por su boca...
         </p>
-
+  
         <p className="text-base sm:text-lg  font-normal">
-          Debemos creerle. 
+          Debemos creerle.
         </p>
-
+  
         <p className="text-base sm:text-lg  font-normal">
           A pies juntillas.
         </p>
-
+  
         <p className="text-base sm:text-lg  font-normal">
           ¿Por qué?
         </p>
-
+  
         <p className="text-base sm:text-lg  font-normal">
           Porque en un 99% de los casos no será como los demás.
         </p>
-
+  
         <p className="text-base sm:text-lg  font-normal">
           Será peor.
         </p>
-
+  
         <p className="text-base sm:text-lg  font-normal">
           Pasa un buen día.
         </p>
-        
-  
       </main>
     );
   }
