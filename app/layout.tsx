@@ -9,44 +9,36 @@ const inter = Inter({
 
 // Metadata
 export const metadata: Metadata = {
-  title: 'Pixel al Límite | Agencia de Marketing Digital para PyMEs',
+  title: 'Escribe. Liga. Vende | Copywriter',
   description:
-    'Impulsamos negocios a través de diseño web, desarrollo, SEO y SEM. Soluciones digitales que inspiran y venden.',
+    'Cada día un email para ayudarte a ligar más y mejor sin parecer subnormal en el intento.',
   keywords: [
-    'Agencia de Marketing Digital para PyMEs',
-    'Agencia de Marketing Digital',
-    'Marketing Online para empresas',
-    'Diseño web para PyMEs',
-    'Desarrollo web para PyMEs',
-    'SEO para PyMEs',
-    'SEM para PyMEs',
+    'Técnicas de seducción',
+    'Como ligar',
+    'Como follar más',
+    'Copywriting',
+    'Copywriter',
+    'Escritura persuasiva',
+    'Redacción publicitaria',
   ],
-  authors: [{ name: 'Pixel al Límite', url: 'https://pixelallimite.com' }],
+  authors: [{ name: 'Maria Lipiz', url: 'https://www.escribeligavende.com' }],
   robots: 'index, follow',
   openGraph: {
-    title: 'Pixel al Límite | Agencia de Marketing Digital para PyMEs',
+    title: 'Escribe. Liga. Vende | Copywriter',
     description:
-      'Estrategias digitales que convierten: diseño web, SEO, SEM y más. Soluciones integrales para pequeñas y medianas empresas.',
-    url: 'https://pixelallimite.com',
-    siteName: 'Pixel al Límite',
+      'Cada día un email para ayudarte a ligar más y mejor sin parecer subnormal en el intento',
+    url: 'https://www.escribeligavende.com',
+    siteName: 'Escribe. Liga. Vende',
     images: [
       {
-        url: 'https://pixelallimite.com/og-image.jpg',
+        url: 'https://escribeligavende.com/og-image.jpg',
         width: 1200,
         height: 630,
-        alt: 'Pixel al Límite | Agencia Digital para PyMEs',
+        alt: 'Escribe. Liga. Vende | Copywriter',
       },
     ],
     locale: 'es_ES',
     type: 'website',
-  },
-  twitter: {
-    card: 'summary_large_image',
-    title: 'Pixel al Límite',
-    description:
-      'Diseño web, SEO y estrategias digitales pensadas para PyMEs. Hacemos que tu negocio crezca en Internet.',
-    images: ['https://pixelallimite.com/og-image.jpg'],
-    creator: '@pixelallimite',
   },
   icons: {
     icon: '/favicon.svg',

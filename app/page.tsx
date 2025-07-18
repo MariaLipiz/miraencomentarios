@@ -50,53 +50,23 @@ export default function Home() {
   const schema = {
     "@context": "https://schema.org",
     "@type": "ProfessionalService",
-    "name": "Pixel al Límite",
-    "url": "https://pixelallimite.com",
-    "logo": "https://pixelallimite.com/logo.png",
-    "description": "Agencia de Marketing Digital en España especializada en diseño web, desarrollo web, SEO, SEM y Social Media para PyMEs, empresas e influencers.",
-    "email": "hello@pixelallimite.com",
-    "telephone": "+34 611 733 341",
+    "name": "Escribe. Liga. Vende - Copywriter",
+    "url": "https://www.escribeligavende.com",
+    "logo": "https://www.escribeligavende/logo.png",
+    "description": "Cada día un email para ayudarte a ligar más y mejor sin parecer subnormal en el intento",
+    "email": "maria@escribeligavende.com",
     "areaServed": {
       "@type": "Country",
       "name": "España"
     },
-    "sameAs": [
-      "https://www.facebook.com/pixelallimite",
-      "https://www.linkedin.com/company/pixelallimite",
-      "https://twitter.com/pixelallimite"
-    ],
+    
     "offers": {
       "@type": "AggregateOffer",
       "offers": [
         {
           "@type": "Offer",
-          "name": "Diseño Web",
-          "description": "Diseño web para PyMEs y empresas"
-        },
-        {
-          "@type": "Offer",
-          "name": "Desarrollo Web",
-          "description": "Desarrollo web para PyMEs y empresas"
-        },
-        {
-          "@type": "Offer",
-          "name": "Posicionamiento SEO",
-          "description": "Posicionamiento SEO para PyMEs y empresas que buscan crecer"
-        },
-        {
-          "@type": "Offer",
-          "name": "Publicidad Digital, Publicidad en Google y Meta y SEM",
-          "description": "Marketing Digital y Publicidad Online para PyMEs y empresas"
-        },
-        {
-          "@type": "Offer",
-          "name": "Gestión de redes sociales",
-          "description": "Creación de contenido, campañas en redes sociales, estrategias de marketing en redes sociales y gestión de comunidades para PyMEs e influencers"
-        },
-        {
-          "@type": "Offer",
-          "name": "Automatizaciones para tu empresa",
-          "description": "Automatizaciones para PyMEs y empresas"
+          "name": "Copywriting",
+          "description": "Redacción publicitaria para empresas. Copywriter amateur"
         },
       ]
     }
