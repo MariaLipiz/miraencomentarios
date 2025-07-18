@@ -2,43 +2,35 @@ import SubscribeForm from '@/components/SubscribeForm';
 import Script from 'next/script'
 
 export const metadata = {
-  title: 'Pixel al Límite | Agencia de Marketing Digital para PyMEs',
+  title: 'Escribe. Liga. Vende | Copywriter',
   description:
-    'Diseño web, desarrollo web, SEO, SEM, Publicidad Digital, Publicidad en Google y Meta, automatización de procesos y más. Creamos experiencias digitales que inspiran y venden.',
-  keywords: [
-    'Agencia de Marketing Digital para PyMEs',
-    'Agencia Marketing Digital para PyMEs',
-    'Agencia Marketing Digital para Empresas',
-    'Agencia de Marketing para PyMEs',
-    'Agencia de Marketing para empresas',
-    'Agencia de Marketing para influencers',
-    'Marketing para influencers',
-  ],
-  authors: [{ name: 'Pixel al Límite', url: 'https://pixelallimite.com' }],
-  robots: 'index, follow',
+    'Cada día un email para ayudarte a ligar más y mejor',
+    keywords: [
+      'Técnicas de seducción',
+      'Como ligar',
+      'Copywriting',
+      'Copywriter',
+      'Escritura persuasiva',
+      'Redacción publicitaria',
+    ],
+    authors: [{ name: 'Maria Lipiz', url: 'https://www.escribeligavende.com' }],
+    robots: 'index, follow',
   openGraph: {
-    title: 'Pixel al Límite | Agencia de Marketing Digital',
+    title: 'Escribe. Liga. Vende | Copywriter',
     description:
-      'Impulsa las ventas de tu negocio con una agencia estratégica, tecnológica y atrevida. Diseño, datos y resultados en cada píxel.',
-    url: 'https://pixelallimite.com',
-    siteName: 'Pixel al Límite',
+      'Cada día un email para ayudarte a ligar más y mejor',
+    url: 'https://www.escribeligavende.com',
+    siteName: 'Escribe. Liga. Vende',
     images: [
       {
-        url: 'https://pixelallimite.com/og-image.jpg',
+        url: 'https://escribeligavende.com/og-image.jpg',
         width: 1200,
         height: 630,
-        alt: 'Pixel al Límite | Agencia de Marketing Digital en Madrid',
+        alt: 'Escribe. Liga. Vende | Copywriter',
       },
     ],
     locale: 'es_ES',
     type: 'website',
-  },
-  twitter: {
-    card: 'summary_large_image',
-    title: 'Pixel al Límite',
-    description: 'Diseño web, marketing digital y estrategias digitales que inspiran y convierten.',
-    images: ['https://pixelallimite.com/og-image.jpg'],
-    creator: '@pixelallimite',
   },
   icons: {
     icon: '/favicon.svg',
@@ -50,10 +42,10 @@ export default function Home() {
   const schema = {
     "@context": "https://schema.org",
     "@type": "ProfessionalService",
-    "name": "Escribe. Liga. Vende - Copywriter",
+    "name": "Escribe. Liga. Vende | Copywriter",
     "url": "https://www.escribeligavende.com",
-    "logo": "https://www.escribeligavende/logo.png",
-    "description": "Cada día un email para ayudarte a ligar más y mejor sin parecer subnormal en el intento",
+    "logo": "https://www.escribeligavende.com/logo.png",
+    "description": "Cada día un email para ayudarte a ligar más y mejor",
     "email": "maria@escribeligavende.com",
     "areaServed": {
       "@type": "Country",

@@ -11,7 +11,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: 'Escribe. Liga. Vende | Copywriter',
   description:
-    'Cada día un email para ayudarte a ligar más y mejor sin parecer subnormal en el intento.',
+    'Cada día un email para ayudarte a ligar más y mejor',
   keywords: [
     'Técnicas de seducción',
     'Como ligar',
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Escribe. Liga. Vende | Copywriter',
     description:
-      'Cada día un email para ayudarte a ligar más y mejor sin parecer subnormal en el intento',
+      'Cada día un email para ayudarte a ligar más y mejor',
     url: 'https://www.escribeligavende.com',
     siteName: 'Escribe. Liga. Vende',
     images: [
