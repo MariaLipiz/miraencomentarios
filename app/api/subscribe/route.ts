@@ -54,6 +54,14 @@ export async function POST(req: Request) {
 
           <p>Imagínate.</p>
           <p><a href="https://escribeligavende.com/frase-de-la-muerte" style="color: #0E0E0E; text-decoration: underline;">SABIDURÍA POPULAR</a></p>
+
+          <p style="font-size: 0.75rem; color: #888888; margin-top: 20px;">
+          Si no quieres recibir más emails míos, puedes 
+          <a href="https://escribeligavende.com/unsubscribe?email={{email}}" style="color: #888888; text-decoration: underline;">
+          darte de baja aquí
+          </a>.
+          </p>
+
           
         </div>
       `,
