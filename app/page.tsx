@@ -277,7 +277,7 @@ export default function Home() {
       Y que si aun así no lo conseguimos, tranquilos todos, que será culpa de la extrema derecha.
       </p>
       <p className="text-base sm:text-lg font-normal ">
-      &quot;No, no, eso es imposible, no somos tan imbeciles&quot;
+      'No, no, eso es imposible, no somos tan imbeciles'
       </p>
       <p className="text-base sm:text-lg font-normal">
       Un día más tarde, 8 millones de jóvenes con una polla en la frente. O dos, no sea que una no haga su trabajo.
