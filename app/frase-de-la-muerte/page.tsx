@@ -18,14 +18,14 @@ export default function SuccessPage() {
           Cito textual:
         </p>
         <p className="text-base sm:text-lg  font-normal">
-          "Excusatio non petita, accusatio manifesta"
+        &quot;Excusatio non petita, accusatio manifesta&quot;
         </p>
         
         <p className="text-base sm:text-lg  font-normal">
           Viene a decir algo como:
         </p>
         <p className="text-base sm:text-lg  font-normal">
-          "Quien se excusa, se acusa"
+        &quot;Quien se excusa, se acusa&quot;
         </p>
         <p className="text-base sm:text-lg  font-normal">
           ¿Que coño tiene esto que ver?
