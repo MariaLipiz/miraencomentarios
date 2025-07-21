@@ -260,7 +260,7 @@ export default function Home() {
       No somos más listos, ni más autoconscientes, ni mejores vendiendonos a los demás.
       </p>
       <p className="text-base sm:text-lg font-normal">
-      Total, que tengo una cosa que va a enseñarte a navegar en este puto circo sin perder 
+      Total, que tengo una cosa que va a enseñarte a navegar en este circo sin perder 
       el tiempo ni la dignidad. 
       </p>
       <p className="text-base sm:text-lg font-normal">
