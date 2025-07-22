@@ -24,22 +24,22 @@ export default function SuccessPage() {
           Y todos ofrecen lo mismo.
         </p>
         <p className="text-base sm:text-lg  font-normal">
-          "Transforma tu mentalidad"
+          -Transforma tu mentalidad-
         </p>
         <p className="text-base sm:text-lg  font-normal">
-          "Encuentra pareja sin esfuerzo"
+          -Encuentra pareja sin esfuerzo-
         </p>
         <p className="text-base sm:text-lg  font-normal">
-          "Ten mas autoconfianza"
+          -Ten mas autoconfianza-
         </p>
         <p className="text-base sm:text-lg  font-normal">
-          "Hazte el ocupado"
+          -Hazte el ocupado-
         </p>
         <p className="text-base sm:text-lg  font-normal">
-          "Contesta los mensajes al día siguiente"
+          -Contesta los mensajes al día siguiente-
         </p>
         <p className="text-base sm:text-lg  font-normal">
-          "Encuentra a tu pareja ideal según tu lenguaje de amor"
+          -Encuentra a tu pareja ideal según tu lenguaje de amor-
         </p>
         <p className="text-base sm:text-lg  font-normal">
           Y demás esloganes vacios.
