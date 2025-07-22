@@ -44,18 +44,19 @@ export async function POST(req: Request) {
 
           <p>En fín, que me lío.</p>
 
-          <p>Tengo algo para ti.</p>
+          <p>Tengo una lista de correo exclusiva. Solo para valientes.</p>
 
-          <p>Algo que te puede servir si eres hombre/mujer/gay/rojo</p>
+          <p>Una lista que te servirá si eres hombre/mujer/gay/rojo</p>
 
           <p>También sirve si quieres encontrar personas aptas para follar, encontrar pareja o buscar una suegra mejor.</p>
+
+          <p>Y vale dinero</p>
 
           <p>A mí me fue de puta madre para no volver a toparme con un casi algo.</p>
 
           <p>Imagínate.</p>
 
           <p><a href="https://escribeligavende.com/frase-de-la-muerte" style="color: #0E0E0E; text-decoration: underline;">SABIDURÍA POPULAR</a></p>
-
           
 
           
