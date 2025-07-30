@@ -4,9 +4,9 @@
 export default function NewsletterForm() {
   return (
     <form
-      action="https://app.convertkit.com/forms/93dbfde7f0/subscriptions"
+      action="https://app.kit.com/forms/8373690/subscriptions"
       method="post"
-      className="w-full max-w-md mx-auto space-y-4"
+      className="max-w-md space-y-4"
     >
       <div className="flex">
         <input
@@ -28,19 +28,19 @@ export default function NewsletterForm() {
         <label className="flex items-start gap-2">
           <input
             type="checkbox"
-            name="terms"
+            name="privacy"
             required
             className="mt-1"
           />
           <span>
-            Acepto los{" "}
+            He leído y acepto la{' '}
             <a
-              href="/terminos"
+              href="/politica-privacidad"
               target="_blank"
               rel="noopener noreferrer"
               className="underline hover:text-black"
             >
-              términos y condiciones
+              política de privacidad
             </a>
             .
           </span>
