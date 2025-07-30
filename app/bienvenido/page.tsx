@@ -6,11 +6,14 @@ export default function SuccessPage() {
         Como te prometí, acabas de recibir un email con tu regalo de bienvenida.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Este regalo consiste en tres cosas que te harán una persona mucho mas magnetica 
+        Este regalo consiste en tres cosas probadas que te harán una persona mucho mas magnetica 
         y atractiva para los demás.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Esto es aplicable a todo (se lo que estás pensando, y no, no vale solo para ligar).
+        Se lo que estás pensando, y no, no vale solo para ligar. 
+      </p>
+      <p className="text-base sm:text-lg font-normal">
+        Esto es aplicable a negocios, vida, relaciones de amistad, trabajo y relaciones sexo/afectivas.
       </p>
       <p className="text-base sm:text-lg font-normal">
         Hazme un favor. Si ese correo ha caido en spam o en otra carpeta que no sea la principal, muevelo a la principal.
