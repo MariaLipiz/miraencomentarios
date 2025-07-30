@@ -73,206 +73,161 @@ export default function Home() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
       />
     <main className="flex flex-col items-start justify-start px-6 sm:px-12 lg:px-52 py-12 gap-5">
-      <h1 className="text-4xl sm:text-5xl font-bold">
-        No leas esto si quieres morir solo
+      <h1 className="text-3xl sm:text-4xl font-bold">
+        Amo ser libre y ayudar a los demás
       </h1>
       <h2 className="text-xl sm:text-2xl font-semibold mb-6">
-        Cada día un email para ayudarte a <strong className="text-red-500">ligar más y mejor</strong> sin parecer subnormal en el intento  
+          Y por eso escribo <span className="text-red-500">un email cada día.</span>
+      </h2>
+
+      
+
+      <p className="text-base sm:text-lg  font-normal">
+      Para venderte algo. Para aprender a vender. Para ayudarte a vender.
+      </p>
+      <p className="text-base sm:text-lg  font-normal">
+      Para ser libre. Para aprender a ser libre. Para ayudarte a ser libre. 
+      </p>
+      <p className="text-base sm:text-lg  font-normal">
+      Apuntarse es gratis. Hasta que deje de serlo.
+      </p>
+
+
+
+      <h2 className="text-xl sm:text-2xl font-semibold my-6">
+      ¿De que va esto?
+      </h2>
+      <p className="text-base sm:text-lg  font-normal">
+      Todos los días veo a personas no ser libres.
+      </p>
+      <p className="text-base sm:text-lg  font-normal">
+      Aniquilan su instinto de supervivencia.
+      </p>
+      <p className="text-base sm:text-lg  font-normal">
+      Deprimidas.
+      </p>
+      <p className="text-base sm:text-lg  font-normal">
+      Insatisfechas con sus vidas. 
+      </p>
+      <p className="text-base sm:text-lg  font-normal">
+      Con cuatro títulos y veinte años de estudio a sus espaldas.
+      </p>
+      <p className="text-base sm:text-lg  font-normal">
+      Dando su vida por un sueldo miserable a final de mes.
+      </p>
+      
+      <p className="text-base sm:text-lg  font-normal">
+      Soñando que lleguen las vacaciones.
+      </p>
+      <p className="text-base sm:text-lg  font-normal">
+      Rogandole a su jefe para que decida que les va a subir cincuenta euros el sueldo.
+      </p>
+      <p className="text-base sm:text-lg  font-normal">
+      Entrando cada mañana a una oficina con el único objetivo de tomar el mayor número posible
+      de cafes mientras mantienen una conversación de besugos con sus compañeros y que sus ocho
+      horas pasen rápido.
+      </p>
+      <p className="text-base sm:text-lg  font-normal">
+      Repitiendo frases como:
+      </p>
+      <p className="text-base sm:text-lg  font-normal">
+      Quiero montarme algo por mi cuenta.
+      </p>
+      <p className="text-base sm:text-lg  font-normal">
+      Emprender esta muy complicado.
+      </p>
+      <p className="text-base sm:text-lg  font-normal">
+      Al menos aquí tengo seguridad.
+      </p>
+      <p className="text-base sm:text-lg  font-normal">
+      En unos años llegaré a [introduce aquí un puesto absurdo] y cobraré más.
+      </p>
+      <p className="text-base sm:text-lg  font-normal">
+      Yo he estado ahí. He llegado a vislumbrar ese infierno.
+      </p>
+      <p className="text-base sm:text-lg  font-normal">
+      Y he salido, como quien se despierta de un mal sueño.
+      </p>
+      <p className="text-base sm:text-lg  font-normal">
+      Todavía sigo aprendiendo a ser libre, no te equivoques.
+      </p>
+      <p className="text-base sm:text-lg  font-normal">
+      Y a vender escribiendo, por eso lo hago cada día. 
+      </p>
+      <p className="text-base sm:text-lg  font-normal">
+      Espero de corazón que esto te ayude a hacer lo mismo. 
+      </p>
+      <p className="text-base sm:text-lg  font-normal">
+      Entra y aprendamos juntos.
+      </p>
+      <p className="text-base sm:text-lg  font-normal">
+      O no, sigue con tu vida.
+      </p>
+      <p className="text-base sm:text-lg  font-normal">
+      Esto ha sido un sueño.
+      </p>
+
+      <h2 className="text-xl sm:text-2xl font-semibold my-6">
+      ¿A quién va dirigido?
       </h2>
 
       <p className="text-base sm:text-lg  font-normal">
-      La soledad actual es culpa del móvil.
+      A nadie.
+      </p>
+      <p className="text-base sm:text-lg  font-normal">
+      A nadie que quiera lamerle el culo a su jefe hasta la segunda venida de Cristo.
+      </p>
+      <p className="text-base sm:text-lg  font-normal">
+      A nadie que ame hacer PowerPoints y Excels de mierda porque su trabajo así se lo exige.
+      </p>
+      <p className="text-base sm:text-lg  font-normal">
+      A nadie cuya máxima aspiración sea sacarse una oposición.
+      </p>
+      <p className="text-base sm:text-lg  font-normal">
+      A nadie que piense que para tener un negocio de éxito necesitas que todo el mundo te vea hacer el ridiculo 
+      en TikTok.
+      </p>
+      <p className="text-base sm:text-lg  font-normal">
+      A nadie que se sienta comodo siendo liderado por completos subnormales.
+      </p>
+
+      
+      <p className="text-base sm:text-lg  font-normal">
+      Espero que con esto haya aclarado todas tus dudas. 
+      </p>
+
+
+
+      <h2 className="text-xl sm:text-2xl font-semibold my-6">
+        No apto para mentes débiles.
+      </h2>
+      <p className="text-base sm:text-lg  font-normal">
+      Mira. No quiero caerte bien.
+      </p>
+      <p className="text-base sm:text-lg  font-normal">
+      Aquí hablaré sobre pollas, liberalismo y seres (humanos) que deberían
+      ser desterrados de la sociedad.
+      </p>
+      <p className="text-base sm:text-lg  font-normal">
+      También hablaré sobre ventas, copywriting y emprendimiento sin censura.
+      </p>
+      <p className="text-base sm:text-lg  font-normal">
+      Cada día, cada mañana, recibirás en tu bandeja de entrada un email que hará que quieras hacerme un hijo o escupirme en la cara. 
+      </p>
+      <p className="text-base sm:text-lg  font-normal">
+      ¿Quieres escupirme en la cara?
+      </p>
+      <p className="text-base sm:text-lg  font-normal">
+      Apúntate y vemos.
       </p>
 
       <p className="text-base sm:text-lg  font-normal">
-      No, no, no.
-      </p>
-
-      <p className="text-base sm:text-lg  font-normal">
-      Mejor aun.
-      </p>
-
-      <p className="text-base sm:text-lg  font-normal">
-      De la extrema derecha.
-      </p>
-
-      <p className="text-base sm:text-lg  font-normal">
-      O no, todavia mejor.
-      </p>
-
-      <p className="text-base sm:text-lg font-normal">
-      De la sociedad hetero-patriarcal.
-      </p>
-
-      <p className="text-base sm:text-lg font-normal">
-      Esa es la culpable de todo.
-      </p>
-      
-      <p className="text-base sm:text-lg  font-normal">
-      Los hombres solo quieren follar. 
-      </p>
-      <p className="text-base sm:text-lg  font-normal">
-      Las mujeres morirán solas rodeadas de gatos.
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-      Debes hacerte el dificil.
-      </p>
-
-      <p className="text-base sm:text-lg font-normal">
-      Debes parecer interesante.
-      </p>
-
-      <p className="text-base sm:text-lg font-normal">
-      Debes tener dos carreras, cuatro masteres y haber ido a Bali ochenta veces para ser interesante.
-      </p>
-
-      <p className="text-base sm:text-lg  font-normal">
-      O mejor, hazte el ocupado, que eso es mas interesante.
-      </p>
-
-      <p className="text-base sm:text-lg font-normal">
-      Al mínimo interés afectivo-romántico tienes que salir corriendo.
-      </p>
-      
-      <p className="text-base sm:text-lg font-normal">
-      No vaya a ser que quiera algo más.
-      </p>
-
-      <p className="text-base sm:text-lg font-normal">
-      Tener hijos mola. Tener hijos no mola.
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-      Lo primero es el trabajo. Lo primero son los amigos. Lo primero soy yo.
-      </p>
-      
-      
-      <p className="text-base sm:text-lg font-normal">
-      Si va en un seat ibiza no es el indicado.
-        </p>
-      
-        <p className="text-base sm:text-lg font-normal">
-        Si no tiene figura paterna está desequilibrada.
-        </p>
-      
-        <p className="text-base sm:text-lg font-normal">
-        Quiero que sea rico, romántico, atento y que me mantenga.
-        </p>
-        <p className="text-base sm:text-lg font-normal">
-        Porque yo valgo mucho. No hago nada con mi vida, pero valgo mucho.
-        </p>
-        <p className="text-base sm:text-lg font-normal">
-        Eso me dice mi amiga, la del pelo azul.
-      </p>
-
-      <p className="text-base sm:text-lg font-normal">
-        Amiga Amigue Amigui.
-      </p>
-
-      <p className="text-base sm:text-lg font-normal">
-        Como coño se diga hoy en día.
-      </p>
-
-        <p className="text-base sm:text-lg font-normal">
-        Es guapo y encantador, pero no me dedica todo su tiempo porque está demasiado ocupado labrandose un futuro.
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-      Mejor le mando a la mierda.
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-      Mis ex novias están todas locas.
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-      Claro, que eso no es culpa mía. Solo caigo con locas.
+      PD: Mira arriba.
       </p>
 
       
-      
-      
-      <p className="text-base sm:text-lg font-normal">
-      Me han puesto los cuernos 3 veces seguidas.
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-      Los tios son unos cerdos.
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-      Pero no te juntes con tíos que te traten bien, que esos son todos unos débiles.
-      </p>
-
-      <p className="text-base sm:text-lg font-normal">
-      No le pongas nombre a lo vuestro.
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-      Fluyendo todo sale mejor.
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-      Ojalá esta tía que acabo de conocer no tenga polla.
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-      Que bueno eres conmigo, ojalá tener un novio como tú.
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-      Hazte la dura, no parezcas emocionalmente dependiente.
-      </p>
-      <p className="text-base sm:text-lg font-normal ">
-      Si se vale por sí misma no te fijes en ella, tú quieres una mujer de las de antes.
-      </p>
-
-      <p className="text-base sm:text-lg font-normal ">
-      Que se deje liderar, y ya de paso, que levante la patita si se lo pides.
-      </p>
-
-      <p className="text-base sm:text-lg font-normal ">
-      ¿Ha follado con 3 en toda su vida? Será una guarra como todas.
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-      Bien.
-      </p>
-      <p className="text-base sm:text-lg font-normal ">
-      ¿Conclusión?
-      </p>
-      <p className="text-base sm:text-lg font-normal ">
-      Muy fácil, que si mañana se pone de moda decir que tenemos que ir todos con una 
-      polla pintada en la frente para poder encontrar pareja o una experiencia sexo-afectiva 
-      satisfactoria, lo vamos a hacer. 
-      </p>
-      <p className="text-base sm:text-lg  font-normal ">
-      Y que si aun así no lo conseguimos, tranquilos todos, que será culpa de la extrema derecha.
-      </p>
-      <p className="text-base sm:text-lg font-normal ">
-      &apos;No, no, eso es imposible, no somos tan imbeciles&apos;
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-      Un día más tarde, 8 millones de jóvenes con una polla en la frente. O dos, no sea que una no haga su trabajo.
-      </p>
 
       
-      <p className="text-base sm:text-lg font-normal">
-      ¿Otra conclusión?
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-      Que los principios básicos del cortejo y el apareamiento humano no han cambiado 
-      porque cuatro feas con pelo de colores y ocho comedoritos hayan puesto todo su empeño en ello.
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-      Nos creemos díos jugando a cambiar la biología humana, y no lo somos.
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-      No somos más listos, ni más autoconscientes, ni mejores vendiendonos a los demás.
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-      Total, que tengo una cosa que va a enseñarte a navegar en este circo sin perder 
-      el tiempo ni la dignidad. 
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-      Y sin decir ellos ellas elles.
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-      Una cosa que hará que me insultes y me llames facha/nazi/apaleadora de niños si nunca te cuestionas nada.
-      </p>
-      
-      <p className="text-base sm:text-lg font-normal mb-6">
-      Si es así, te invito a que me insultes, pero no te apuntes.
-      </p>
 
 
       <SubscribeForm />

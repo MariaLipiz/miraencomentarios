@@ -15,7 +15,6 @@ export const metadata: Metadata = {
   keywords: [
     'Técnicas de seducción',
     'Como ligar',
-    'Como follar más',
     'Copywriting',
     'Copywriter',
     'Escritura persuasiva',

@@ -2,125 +2,133 @@ import SubscribeForm from '@/components/SubscribeForm';
 
 export default function Sobremi() {
   return (
-    <main className="flex flex-col items-center justify-center px-6 py-12 gap-4 text-center">
-      <h1 className="text-4xl sm:text-5xl font-bold">
-        María Lípiz - Copywriter accidental
+    <main className="flex flex-col items-start justify-start px-6 sm:px-12 lg:px-52 py-12 gap-5">
+
+      
+
+        <h1 className="text-3xl sm:text-4xl font-bold">
+        María Lípiz
       </h1>
       <h2 className="text-xl sm:text-2xl max-w-3xl font-semibold mb-6">
-        Sobre mí 
+        Copywriter accidental. Persona no domesticada 
       </h2>
       
       
-      
+    
       <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Mis amigos dicen que quieren ser como yo.
+        El otro día leyendo cosas aleatorias por internet descubrí que cuando vas a comprar un perro te muestran una ficha.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Un papel.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Un rectangulo de papel donde ese ser vivo se ve reducido a caracteristicas.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Caracteristicas tales como su raza.
       </p>
 
       <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Mi novio: que compró mercancia defectuosa.
+        Su color.
       </p>
 
       <p className="text-base sm:text-lg max-w-3xl font-normal">
-        ¿Quién tiene razón?
+        Su caracter.
       </p>
       <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Ni puta idea.
-      </p>
-      
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        No me considero coach de ligoteo.
-      </p>
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Ni de izquierdas. 
-      </p>
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Ni de derechas.
-      </p>
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Ni me ha contratado Mario Luna para hacer una colaboración. 
-      </p>
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        De hecho, solo me conoce mi madre a la hora de comer. Y poco más.
-      </p>
-
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Si te soy sincera, ni siquiera sé lo que estoy haciendo.
-      </p>
-      
-
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Solo sé que me gusta escribir. En eso soy buena.
-      </p>
-
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        O no. Digamos que estoy en prácticas.
-      </p>
-
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Y leer Forocoches.
-      </p>
-
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        En su día, me gustaba ligar y observar a la gente.
-      </p>
-
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-         Bueno, esto último lo sigo haciendo.
-      </p>
-
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-         También me gustaba leer libros de ligoteo y apareamiento. 
-      </p>
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-         Para ponerlos en práctica, ya sabes.
-      </p>
-
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Ah, y ver Firts Dates.
-      </p>
-
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        No creo que deba contarte nada sobres mis logros academico-laborales, ni decirte que mi misión en la vida
-        es que todos seamos mas asertivos y dejemos de hacer ghosting a la gente. 
-      </p>
-
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        No tendría mucho sentido. 
-      </p>
-
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Una cosa que si te puedo contar.
+        Su origen.
       </p>
       
       <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Un día, con 21 años y un corazón hecho mierda, escribí una
-        descripción en Tinder tan jodidamente buena que capté la atención 
-        de muchos tios fantasticos, entre ellos mi actual novio. 
+        Su edad.
       </p>
-
       <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Tenía unas fotos de mierda.
+        Las cualidades de su raza.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Su estado de salud.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Y cosas así.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Esa ficha, te permitía conocer y evaluar todas las caracteristicas del animal
+        para tomar una decisión.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Si lo adoptabas o no.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Te daba la capacidad para decidir si era digno de ocupar un lugar en tu casa.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Si lo piensas, un curriculum no es muy diferente.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Redactas una retahila de caracteristicas sobre ti.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Como producto, no como persona. 
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Luego, le das el poder a un tio de recursos humanos para decidir si eres digno.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Si mereces un sitio en su empresa.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Si eres un candidato apto o debes ser despreciado.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Yo no soy un perro. No quiero convertirme en uno.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Tampoco me gusta la idea de comprar perros.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Por eso, en esta sección no me reduciré a una lista de características.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Dicen por ahí que debo decir algo que llame mucho la atención.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Algo memorable, que haga llorar hasta a las margaritas.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Para que tú, como lector, te enamores de mí.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Y luego de lo que hago.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Después, debo contarte algo sobre lo comprometida que estoy contigo.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Mi larga trayectoria, mis años de experiencia.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Gilipolleces varias. 
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Para que compres algo y me des tu sucio dinero, ya sabes.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        En realidad, ya te he contado algo sobre mí.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        A parte soy copywriter, pero eso es otra historia.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Ahora me iré, que me esperan mis suegros para cenar.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Puedes apuntarte a mi correo diario, y ser una persona. Es gratis.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        También puedes ser un perro y dejarte domesticar.
       </p>
       
 
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Tambien se ofendió mucha gente, pero eso es irrelevante.
-      </p>
-
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Increible, ¿Verdad?
-      </p>
-      
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        ¿Esperabas más?
-        </p>
-        <p className="text-base sm:text-lg max-w-3xl font-normal">
-        ¿Esperabas menos?
-        </p>
-
-        <p className="text-base sm:text-lg max-w-3xl font-normal mb-6">
-        Lo cierto es que me da igual.
-        </p>
       
         
         
