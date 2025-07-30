@@ -24,14 +24,14 @@ export default function SuccessPage() {
         Vas a tu correo, haces click en el email que acabas de recibir y ya lo tienes.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Cuando confirmes tu correo, recibirás otro email con tu regalo de bienvenida.
+        Cuando confirmes tu correo, serás redirigido a una página que tendrá un regalo de bienvenida.
       </p>
 
       <p className="text-base sm:text-lg  font-normal">
         Interesante, interesante.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        No pone bienvenido. Ni gracias por suscribirte.
+        No pone gracias por suscribirte. Ni como te has suscrito te voy a jurar amor eterno.
       </p>
       <p className="text-base sm:text-lg font-normal">
         Pero pone algo que si eres:
