@@ -1,4 +1,4 @@
-import SubscribeForm from '@/components/SubscribeForm';
+import NewsletterForm from '@/components/NewsletterForm';
 import Script from 'next/script'
 
 export const metadata = {
@@ -91,6 +91,8 @@ export default function Home() {
       <p className="text-base sm:text-lg  font-normal">
       Apuntarse es gratis. Hasta que deje de serlo.
       </p>
+
+      <NewsletterForm />
 
 
 
@@ -196,6 +198,8 @@ export default function Home() {
       Espero que con esto haya aclarado todas tus dudas. 
       </p>
 
+      <NewsletterForm />
+
 
 
       <h2 className="text-xl sm:text-2xl font-semibold my-6">
@@ -230,7 +234,7 @@ export default function Home() {
       
 
 
-      <SubscribeForm />
+      <NewsletterForm />
       
     </main>
     </>

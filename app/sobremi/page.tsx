@@ -1,4 +1,4 @@
-import SubscribeForm from '@/components/SubscribeForm';
+import SubscribeForm from '@/components/NewsletterForm';
 
 export default function Sobremi() {
   return (
