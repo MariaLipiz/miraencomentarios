@@ -1,22 +1,32 @@
 export default function SuccessPage() {
   return (
     <main className="flex flex-col items-start justify-start px-6 sm:px-12 lg:px-52 py-12 gap-5">
-      <h1 className="text-4xl sm:text-5xl font-bold mb-6 mb-6">Bienvenido a este experimento social</h1>
+      <h1 className="text-4xl sm:text-5xl font-bold mb-6 mb-6">Acabas de ser...</h1>
+      <h1 className="text-4xl sm:text-5xl font-bold mb-6 mb-6">...</h1>
+      <h1 className="text-4xl sm:text-5xl font-bold mb-6 mb-6">¡RECHAZADO!</h1>
       <p className="text-base sm:text-lg  font-normal">
-        Me alegra tener otro individuo por aquí.
-      </p>
-      <p className="text-base sm:text-lg  font-normal">
-        Escucha.
+        Mira.
       </p>
       <p className="text-base sm:text-lg font-normal">
         Te voy a ser sincera.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        La herramienta de email que uso es una mierda y no hay quién se aclare con esto, así que no recibirás un correo para confirmar tu email.
+        Creí que la herramienta de email que tenía era una mierda y no permitia correos de confirmación, 
+        pero como la vida es buena y el mundo es un lugar justo resulta que sí.
       </p>
-      <p className="text-base sm:text-lg  font-normal">
-      Pero sí<strong> acabas de recibir un correo.</strong>
+      <p className="text-base sm:text-lg font-normal">
+        Así que debes confirmar que de verdad quieres entrar.
       </p>
+      <p className="text-base sm:text-lg font-normal">
+        Es sencillo.
+      </p>
+      <p className="text-base sm:text-lg font-normal">
+        Vas a tu correo, haces click en el email que acabas de recibir y ya lo tienes.
+      </p>
+      <p className="text-base sm:text-lg font-normal">
+        Cuando confirmes tu correo, recibirás otro email con tu regalo de bienvenida.
+      </p>
+
       <p className="text-base sm:text-lg  font-normal">
         Interesante, interesante.
       </p>
@@ -29,14 +39,16 @@ export default function SuccessPage() {
       <ul className="list-disc list-inside space-y-1 text-base sm:text-lg font-normal">
         <li>Humano</li>
         <li>Humanoide.</li>
+        <li>Persona con un negocio que quiere vender más.</li>
         <li>Hombre buscando hembra apta para la reproducción y para llevarse bien con tu madre.</li>
-        <li>Mujer con un largo historial de gilipollas a sus espaldas.</li>
+        
       </ul>
       <p className="text-base sm:text-lg font-normal">
       <strong>te va a interesar.</strong>
       </p>
 
-      <h2 className="text-xl sm:text-2xl font-semibold mb-6">
+
+<h2 className="text-xl sm:text-2xl font-semibold my-6">
         Posibles problemas técnicos  
       </h2>
       <p className="text-base sm:text-lg font-normal">
@@ -53,16 +65,23 @@ export default function SuccessPage() {
       </p>
 
       <p className="text-base sm:text-lg font-normal">
-      En el tercero lamento decirte que tienes que esperar.
+      En el tercero lamento decirte que todo ha fallado.
       </p>
 
       <p className="text-base sm:text-lg  font-normal">
-      La vida es así de dura.
+      La vida es así.
       </p>
 
       <p className="text-base sm:text-lg  font-normal">
-      Pasa un gran día.
+      Pasa un gran mediodía.
       </p>
+
+      
+
+      
+      
+
+      
 
       
 

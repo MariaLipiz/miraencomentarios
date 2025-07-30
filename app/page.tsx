@@ -100,6 +100,9 @@ export default function Home() {
       <p className="text-lg sm:text-xl  font-semibold mt-4">
       PD: Con esto conseguirás caerle mal a tu cuñado. 
       </p>
+      <p className="text-lg sm:text-xl  font-semibold">
+      PD2: También ganar más dinero.
+      </p>
 
 
 
