@@ -39,7 +39,7 @@ export default function SuccessPage() {
       <ul className="list-disc list-inside space-y-1 text-base sm:text-lg font-normal">
         <li>Humano</li>
         <li>Humanoide.</li>
-        <li>Persona con un negocio que quiere vender más.</li>
+        <li>Persona con un negocio que quiera tener la seguridad de que no se va a ir a pique.</li>
         <li>Hombre buscando hembra apta para la reproducción y para llevarse bien con tu madre.</li>
         
       </ul>

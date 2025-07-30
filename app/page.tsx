@@ -72,7 +72,7 @@ export default function Home() {
         strategy="afterInteractive"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
       />
-    <main className="flex flex-col items-start justify-center px-6 sm:px-12 lg:px-52 py-6 lg:py-12 gap-5 lg:h-screen">
+    <main className="flex flex-col items-start justify-center px-6 sm:px-12 lg:px-52 py-6 lg:py-12 gap-5 xl:h-screen">
       <h1 className="text-4xl sm:text-5xl font-bold mb-6 ">
         Copywriting para caerle mal a tu cuñado
       </h1>
@@ -103,6 +103,7 @@ export default function Home() {
       <p className="text-lg sm:text-xl  font-semibold">
       PD2: También ganar más dinero.
       </p>
+    
 
 
 
