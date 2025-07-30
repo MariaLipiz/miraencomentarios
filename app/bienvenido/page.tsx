@@ -4,10 +4,6 @@ export default function Bienvenido() {
       <h1 className="text-4xl sm:text-5xl font-bold mb-6">
         Bienvenido a mi nidito de indecencia
       </h1>
-
-      <p className="text-base sm:text-lg font-normal">
-        Me alegra verte por aquí.
-      </p>
       <p className="text-base sm:text-lg font-normal">
         Mira.
       </p>
@@ -60,7 +56,7 @@ export default function Bienvenido() {
         Una de las líneas de mi descripción de Tinder decía así:
       </p>
       <p className="text-base sm:text-lg font-semibold my-6">
-        “No tolerante con los analfabetos funcionales y los indigentes mentales”
+        -No tolerante con los analfabetos funcionales y los indigentes mentales-
       </p>
       <p className="text-base sm:text-lg font-normal">
         Antes de eso, todos los tíos que me entraban me decían "Hola q tal". Así tal cual. Obviamente la conversación se quedaba ahí porque para mí tenía menos gracia que una piedra.
