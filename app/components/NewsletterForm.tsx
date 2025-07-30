@@ -18,9 +18,9 @@ export default function NewsletterForm() {
         />
         <button
           type="submit"
-          className="bg-black text-white px-6 py-2 rounded-r-md hover:bg-gray-900"
+          className="bg-red-500 text-white px-6 py-2 rounded-r-md hover:bg-gray-900"
         >
-          Suscribirme
+          Pues vale
         </button>
       </div>
 
