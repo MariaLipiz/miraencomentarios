@@ -59,11 +59,11 @@ export default function Bienvenido() {
         -No tolerante con los analfabetos funcionales y los indigentes mentales-
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Antes de eso, todos los tíos que me entraban me decían "Hola q tal". Así tal cual. Obviamente la conversación se quedaba ahí porque para mí tenía menos gracia que una piedra.
+        Antes de eso, todos los tíos que me entraban me decían -Hola q tal-. Así tal cual. Obviamente la conversación se quedaba ahí porque para mí tenía menos gracia que una piedra.
       </p>
       <p className="text-base sm:text-lg font-normal">
         Oye, puse eso en mi descripción, y de repente la mayoría de la peña afirmaba en su primer mensaje 
-        que me habían dado "Like" porque les había parecido la polla mi descripción, y en concreto, hablaban 
+        que me habían dado -Like- porque les había parecido la polla mi descripción, y en concreto, hablaban 
         de esa línea.
       </p>
       <p className="text-base sm:text-lg font-normal">
