@@ -78,29 +78,29 @@ export default function Home() {
       </h1>
       
 
-      <p className="text-lg sm:text-xl  font-normal">
+      <p className="text-base sm:text-lg font-normal">
       Una vez escuché a un grande del copy decir que él escribía mucho y observaba a la gente.
       </p>
-      <p className="text-lg sm:text-xl  font-normal">
+      <p className="text-base sm:text-lg font-normal">
       Será por eso que es un grande. 
       </p>
-      <p className="text-lg sm:text-xl  font-normal">
+      <p className="text-base sm:text-lg font-normal">
       No se.
       </p>
-      <p className="text-lg sm:text-xl  font-normal">
+      <p className="text-base sm:text-lg font-normal">
       Lo que sí sé, es que <strong>cada día te envío un email diario </strong> para aprender a hacer que las personas sientan cosas y compren lo que ofreces.
       </p>
-      <p className="text-lg sm:text-xl  font-normal mb-4">
+      <p className="text-base sm:text-lg font-normal">
       Te apuntas abajo.
       </p>
       
 
       <NewsletterForm />
 
-      <p className="text-lg sm:text-xl  font-semibold mt-4">
+      <p className="text-base sm:text-lg font-semibold">
       PD: Con esto conseguirás caerle mal a tu cuñado. 
       </p>
-      <p className="text-lg sm:text-xl  font-semibold">
+      <p className="text-base sm:text-lg font-semibold">
       PD2: También ganar más dinero.
       </p>
     
