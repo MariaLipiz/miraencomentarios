@@ -74,7 +74,7 @@ export default function Home() {
       />
     <main className="flex flex-col items-start justify-center px-6 sm:px-12 lg:px-52 py-6 lg:py-12 gap-5 xl:h-screen">
       <h1 className="text-4xl sm:text-5xl font-bold mb-6 ">
-        Copywriting para caerle mal a tu cuñado
+        Copywriting para darle envidia a tu cuñado y caerle mal
       </h1>
       
 
@@ -88,7 +88,7 @@ export default function Home() {
       No se.
       </p>
       <p className="text-base sm:text-lg font-normal">
-      Lo que sí sé, es que <strong>cada día te envío un email diario </strong> para aprender a hacer que las personas sientan cosas y compren lo que ofreces.
+      Lo que sí sé, es que <strong>cada día te envío un email </strong> para aprender a hacer que las personas sientan cosas y compren lo que ofreces.
       </p>
       <p className="text-base sm:text-lg font-normal">
       Te apuntas abajo.
@@ -101,8 +101,9 @@ export default function Home() {
       PD: Con esto conseguirás caerle mal a tu cuñado. 
       </p>
       <p className="text-base sm:text-lg font-semibold">
-      PD2: También ganar más dinero.
+      PD2: Si te esfuerzas lo suficiente, también a tu otro cuñado. 
       </p>
+      
     
 
 

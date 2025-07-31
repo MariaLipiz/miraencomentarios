@@ -20,10 +20,11 @@ export default function Bienvenido() {
         Los he puesto en práctica en múltiples contextos.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        También he pasado mucho tiempo en Tinder estudiando individuos de todos los colores y formas.
+        También he pasado mucho tiempo en Tinder buscando pareja, y como me despertaba curiosidad por algún motivo 
+        que desconozco, estudiando individuos de todos los colores y formas.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Te sorprendería ver lo mongola que es alguna gente.
+        Te sorprendería la cantidad de información que puedes sacar de un simple chat en Tinder.
       </p>
       <p className="text-base sm:text-lg font-normal">
         Total, que he sacado muchas conclusiones.
@@ -32,13 +33,17 @@ export default function Bienvenido() {
         MUCHAS
       </p>
       <p className="text-base sm:text-lg font-normal">
+        Valiosas para conseguir una relación estable y duradera y para hacer dinero.
+      </p>
+      
+      <p className="text-base sm:text-lg font-normal">
         ...
       </p>
       <p className="text-base sm:text-lg font-semibold">
         La primera:
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Poner límites es lo más jodidamente sexy y atractivo del mundo.
+        Hacer ver a las personas tus límites y tu falta de necesidad (y ser fiel a ello) es lo más jodidamente sexy y atractivo del mundo.
       </p>
       <p className="text-base sm:text-lg font-normal">
         A familiares, a amigos, a compañeros de curro, a clientes, a ligues...
@@ -59,12 +64,13 @@ export default function Bienvenido() {
         -No tolerante con los analfabetos funcionales y los indigentes mentales-
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Antes de eso, todos los tíos que me entraban me decían -Hola q tal-. Así tal cual. Obviamente la conversación se quedaba ahí porque para mí tenía menos gracia que una piedra.
+        Antes de eso, casi todos los tíos que me entraban me decían banalidades como -Hola q tal-. Así tal cual. Obviamente 
+        la conversación se quedaba ahí porque nadie en su sano juicio hablaría con una persona que se presenta de esta forma.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Oye, puse eso en mi descripción, y de repente la mayoría de la peña afirmaba en su primer mensaje 
-        que me habían dado -Like- porque les había parecido la polla mi descripción, y en concreto, hablaban 
-        de esa línea.
+        Oye, puse eso en mi descripción, y de repente el primer contacto empezó a cambiar. Ya no era ese -Hola q tal-, sino 
+        un -Por fin una tia con una descripción original por aquí, ¿Podrías decirme por qué no te gustan los 
+        analfabetos?- o -Tu perfil me ha parecido interesante, yo también soy intolerante a los indigentes mentales-.
       </p>
       <p className="text-base sm:text-lg font-normal">
         Esa puta línea era el tema estrella para iniciar conversación.
@@ -73,14 +79,14 @@ export default function Bienvenido() {
         No sé, la gente que es así.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Luego todo cobró sentido, claro está. Haciendo pruebas con más joyitas como esta resultó haber un patrón.
+        Luego todo cobró sentido, claro está. Haciendo pruebas con más joyitas como esta resultó que sucedían cosas.
       </p>
       <p className="text-base sm:text-lg font-normal">
         En fin.
       </p>
       <p className="text-base sm:text-lg font-normal">
         Como extra, te diré que si tienes un negocio, nunca hagas trabajo que no te corresponda y que no te vayan
-        a pagar. Creeme que no quieres convertirte en esa persona. Lo sé por experiencia. 
+        a pagar. Pon límites. Creeme que no quieres convertirte en esa persona. Lo sé por experiencia. Sé de lo que hablo. 
       </p>
       <p className="text-base sm:text-lg font-normal">
         La de cobrar poco y dar mucho valor extra a petición del cliente no te hace deseable.
@@ -113,6 +119,7 @@ export default function Bienvenido() {
       <p className="text-base sm:text-lg font-normal">
         Aparte de esto, si pecas de ser demasiado hablador cuando no toca, lo más probable es que todo el mundo huya de ti como de la peste, que nadie te dé dinero/sexo loco/la relación más estable, bonita y duradera que hayas tenido en tu vida y que termines convirtiéndote en aburridor profesional.
       </p>
+      
       <p className="text-base sm:text-lg font-normal">
         ...
       </p>
@@ -132,13 +139,41 @@ export default function Bienvenido() {
         Cuando inviertes en ti, en lo que te gusta, en hacer lo que se te da bien y en buscar la manera de que esto pueda ayudar a los demás, esta cosa acaba convirtiéndose en algo que te hace valioso.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Me da igual si lo tuyo es el ganchillo, pasear gatos, ligar o hablar en público como un puto pro.
+        Me da igual si lo tuyo es el ganchillo, pasear gatos, ligar o peinar calvos como un puto pro.
       </p>
       <p className="text-base sm:text-lg font-normal">
         Hazlo muchas veces, persevera, conviértete en un experto, monetízalo incluso, y verás como al final serás alguien más atractivo e interesante, tanto para tus clientes como para tu cita de Tinder del viernes.
       </p>
       <p className="text-base sm:text-lg font-normal">
         Sin necesidad de decir lo guay y lo bueno que eres. Tu habilidad hablará por ti.
+      </p>
+      <p className="text-base sm:text-lg font-normal">
+        Si no me crees piensa en lo siguiente:
+      </p>
+      <p className="text-base sm:text-lg font-normal">
+        Tienes dos ligues. 
+      </p>
+      <p className="text-base sm:text-lg font-normal">
+        A uno de ellos, me lo invento, le apasionan los accidentes aereos y todo lo relaciona con los aviones y las catastrofes.
+      </p>
+      <p className="text-base sm:text-lg font-normal">
+        El tio lo vive, le encanta y profundiza mucho en ese tema para saber cada vez más, por muy raro y turbio que pueda ser el tema. 
+      </p>
+      <p className="text-base sm:text-lg font-normal">
+        Incluso se saca algún dinero en su tiempo libre enseñando a otros, o directamente vive de ello.
+      </p>
+      <p className="text-base sm:text-lg font-normal">
+        El otro, tiene algunos hobbies, aunque la mayor parte del tiempo hace lo que hagan sus amigos o lo que 
+        hagan los demás.
+      </p>
+      <p className="text-base sm:text-lg font-normal">
+        ¿Quién te parece más interesante? ¿Quién tiene mas valor para ti?
+      </p>
+      <p className="text-base sm:text-lg font-normal">
+        Ahora imagina que en vez de ser los accidentes aereos lo que le apasiona, es alguna otra cosa que a ti te despierta curiosidad.
+      </p>
+      <p className="text-base sm:text-lg font-normal">
+        Pues eso.
       </p>
       <p className="text-base sm:text-lg font-normal">
         ...
