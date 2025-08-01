@@ -79,7 +79,7 @@ export default function Home() {
       
 
       <p className="text-base sm:text-lg font-normal">
-      Una vez escuché a un grande del copy decir que él escribía mucho y observaba a la gente.
+      Una vez escuché Isra, un grande del copy, decir que él escribía mucho y observaba a la gente.
       </p>
       <p className="text-base sm:text-lg font-normal">
       Será por eso que es un grande. 
@@ -88,7 +88,8 @@ export default function Home() {
       No se.
       </p>
       <p className="text-base sm:text-lg font-normal">
-      Lo que sí sé, es que <strong>cada día te envío un email </strong> para aprender a hacer que las personas sientan cosas y compren lo que ofreces.
+      Lo que sí sé, es que escribo cada día y <strong>cada día te envío un email </strong> para aprender a 
+      hacer que las personas sientan cosas y compren lo que vendas.
       </p>
       <p className="text-base sm:text-lg font-normal">
       Te apuntas abajo.

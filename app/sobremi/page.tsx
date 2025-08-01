@@ -6,126 +6,108 @@ export default function Sobremi() {
 
       
 
-        <h1 className="text-3xl sm:text-4xl font-bold">
+        <h1 className="text-4xl sm:text-5xl font-bold mb-6 ">
         María Lípiz
       </h1>
-      <h2 className="text-xl sm:text-2xl max-w-3xl font-semibold mb-6">
-        Copywriter accidental. Persona no domesticada 
+      <h2 className="text-2xl sm:text-3xl max-w-3xl font-semibold mb-6">
+        Copywriter. <span className="text-red-600">Persona no domesticada </span>
       </h2>
+
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Te voy a contar una reflexión curiosa que probablemente te parecerá una gilipollez y quizás no entenderás, pero que si 
+        lees con atención te servirá para redactar mejor tus páginas de ventas, tu curriculum y cualquier descripción 
+        sobre ti o sobre un producto.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        También vale para más cosas, pero esas <strong>te las cuento como regalo por suscribirte a mi email diario</strong>, que sinó me lío a hablar y no 
+        acabamos nunca.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Empiezo.
+      </p>
       
       
     
       <p className="text-base sm:text-lg max-w-3xl font-normal">
-        El otro día leyendo cosas aleatorias por internet descubrí que cuando vas a comprar un perro te muestran una ficha.
+        El otro día estaba leyendo cosas aleatorias por internet, como hago cada día desde que mi prima segunda me compró 
+        mi primer movil con acceso a internet. 
+        Me picó la curiosidad y decidí buscar información sobre criaderos 
+        de perros. Estos lugares a los que vas y compras el perro que más te guste. No me preguntes porqué.
       </p>
       <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Un papel.
+        Mirando los perros que tenían en uno de los criaderos, vi que cada uno venía acompañado de una ficha.
+        Una ficha que hablaba sobre todas las caracteristicas del animal.
       </p>
+     
+      
       <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Un rectangulo de papel donde ese ser vivo se ve reducido a caracteristicas.
-      </p>
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Caracteristicas tales como su raza.
+        Caracteristicas como su raza, su color, su caracter, su origen, su edad, las cualidades de su raza, su estado 
+        de salud y cosas así.
       </p>
 
       <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Su color.
-      </p>
-
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Su caracter.
+        Esa ficha debería ser suficiente para conocer y evaluar al animal,
+        y después, tomar una decisión. Si lo adoptabas o no. Te daba la capacidad para decidir si era digno de ocupar un lugar en tu casa.
       </p>
       <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Su origen.
+        Joder.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        No se tu. yo hubiese preferido que me dijesen que Luna, la pastora alemana, era capaz de abrir las 
+        puertas de casa con la pata, oler si un invitado entraba en mi casa con maria en el bolsillo y que un día se comio una zapatilla y dejo el sofá echo perdido despues de haber vomitado trocitos de caucho. No se. 
+      </p>
+       <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Pero bueno, que eso no fue lo que pasó. En su ficha no ponia eso sobre Luna.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Si lo piensas, un curriculum no es muy diferente. 
       </p>
       
       <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Su edad.
+        Redactas una retahila de caracteristicas sobre ti, como 
+        producto, no como persona. Y lo redactas así bonito, en forma de lista, con sus puntos, guiones y todo, 
+        no sea que no pase el filtro ATS y te vayas a quedar fuera de una empresa donde te van a tratar como a un bot 
+        especialista en hacer PowerPoints. 
       </p>
       <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Las cualidades de su raza.
+        Luego, le das el poder a un tio de recursos humanos que no sabe ni de que va lo que haces para decidir si eres digno, si mereces un sitio en su empresa, 
+        si eres un candidato apto o debes ser despreciado.
       </p>
       <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Su estado de salud.
-      </p>
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Y cosas así.
-      </p>
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Esa ficha, te permitía conocer y evaluar todas las caracteristicas del animal
-        para tomar una decisión.
-      </p>
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Si lo adoptabas o no.
-      </p>
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Te daba la capacidad para decidir si era digno de ocupar un lugar en tu casa.
-      </p>
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Si lo piensas, un curriculum no es muy diferente.
-      </p>
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Redactas una retahila de caracteristicas sobre ti.
-      </p>
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Como producto, no como persona. 
-      </p>
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Luego, le das el poder a un tio de recursos humanos para decidir si eres digno.
-      </p>
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Si mereces un sitio en su empresa.
-      </p>
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Si eres un candidato apto o debes ser despreciado.
-      </p>
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Yo no soy un perro. No quiero convertirme en uno.
-      </p>
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Tampoco me gusta la idea de comprar perros.
+        Yo no soy Luna. No quiero que nadie lea una ficha sobre mí. Muchos menos escribirla yo. Tampoco me gusta la idea de comprar perros.
       </p>
       <p className="text-base sm:text-lg max-w-3xl font-normal">
         Por eso, en esta sección no me reduciré a una lista de características.
       </p>
       <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Dicen por ahí que debo decir algo que llame mucho la atención.
-      </p>
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Algo memorable, que haga llorar hasta a las margaritas.
-      </p>
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Para que tú, como lector, te enamores de mí.
+        Dicen por ahí que debo decir algo que llame mucho la atención. Algo memorable, que haga llorar 
+        hasta a Elon Musk, para que tú, como lector, te enamores de mí.
       </p>
       <p className="text-base sm:text-lg max-w-3xl font-normal">
         Y luego de lo que hago.
       </p>
       <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Después, debo contarte algo sobre lo comprometida que estoy contigo.
+        Después, debo contarte algo sobre lo comprometida que estoy contigo, mi larga trayectoria, 
+        mis años de experiencia y lo bien que hago el pino puente sin manos. Mentira, no hago el pino puente. 
+      
+      </p>
+      
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Gilipolleces varias para que compres algo y me des tu dinero, ya sabes. Pero como te dije antes, no soy Luna, así 
+        que no haré eso.
+      </p>
+      
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+       Con esta reflexión, ya te he contado lo más importante que debes saber sobre mí. A parte de eso, soy copywriter, pero eso es otra historia.
       </p>
       <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Mi larga trayectoria, mis años de experiencia.
-      </p>
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Gilipolleces varias. 
-      </p>
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Para que compres algo y me des tu sucio dinero, ya sabes.
-      </p>
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        En realidad, ya te he contado algo sobre mí.
-      </p>
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        A parte soy copywriter, pero eso es otra historia.
-      </p>
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Ahora me iré, que me esperan mis suegros para cenar.
+        Ahora me iré, que me esperan mis suegros para cenar y sino voy corriendo me van a dejar sin cena y me da pereza ponerme a cocinar.
       </p>
       <p className="text-base sm:text-lg max-w-3xl font-normal">
         Puedes apuntarte a mi correo diario, y ser una persona. Es gratis.
       </p>
       <p className="text-base sm:text-lg max-w-3xl font-normal">
-        También puedes ser un perro y dejarte domesticar.
+        También puedes ser un Luna y dejarte domesticar.
       </p>
       
 
