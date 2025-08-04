@@ -41,7 +41,10 @@ export const metadata = {
     type: 'website',
   },
   icons: {
-    icon: '/favicon.svg',
+    icon: [
+    { url: '/favicon.ico' },                      // clásico
+    { url: '/favicon.svg', type: 'image/svg+xml' } // vectorial
+  ],
     apple: '/apple-icon.png',
   },
 }
