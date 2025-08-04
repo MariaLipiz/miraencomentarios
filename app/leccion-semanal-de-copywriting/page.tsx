@@ -75,7 +75,7 @@ export default function Producto() {
               
         
             <h2 className="text-2xl sm:text-3xl font-semibold mb-6 text-center my-4">
-        Email semanal para vender más y hacer tu negocio más atractivo <span className="text-red-800 text-4xl">25€/mes</span>
+        Lección semanal de copywriting para vender más y hacer tu negocio más atractivo <span className="text-red-800 text-4xl">25€/mes</span>
       </h2>
         
             <a
