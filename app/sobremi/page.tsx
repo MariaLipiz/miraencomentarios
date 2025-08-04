@@ -21,21 +21,11 @@ export const metadata = {
       'Aquí te contaré una cosa que te ayudará a redactar mejor tus páginas de ventas y tu curriculum',
     url: 'https://www.miraencomentarios.com/sobremi',
     siteName: 'Maria Lipiz Copywriter',
-    images: [
-      {
-        url: 'https://miraencomentarios.com/og-image.jpg',
-        width: 1200,
-        height: 630,
-        alt: 'Maria Lipiz | Copywriter',
-      },
-    ],
+    
     locale: 'es_ES',
     type: 'website',
   },
-  icons: {
-    icon: '/favicon.svg',
-    apple: '/apple-icon.png',
-  },
+  
 }
 
 export default function Sobremi() {

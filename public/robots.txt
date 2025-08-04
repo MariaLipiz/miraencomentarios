@@ -1,0 +1,11 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api
+
+# Host
+Host: https://www.miraencomentarios.com
+
+# Sitemaps
+Sitemap: https://www.miraencomentarios.com/sitemap.xml
