@@ -43,11 +43,11 @@ export const metadata = {
 export default function Servicio() {
   return (
     <main className="flex flex-col  px-6 sm:px-12 lg:px-52 py-12 gap-10 text-justify">
-      <h1 className="text-5xl sm:text-6xl font-semibold mb-6 text-center">
+      <h1 className="text-5xl sm:text-6xl font-bold mb-6 text-center">
         Copywriting para negocios sin(verguenza)
       </h1>
       <h1 className="text-3xl sm:text-4xl font-bold mb-6 text-red-600 text-center">
-        ATENCIÓN: LAS PLAZAS SON LIMITADAS Y EL AÑO QUE VIENE COSTARÁ <strong>9680€ </strong>
+        ATENCIÓN: SOLO HAY 12 PLAZAS Y EL AÑO QUE VIENE COSTARÁ <strong>9680€ </strong>
       </h1>
       <h2 className="text-2xl sm:text-3xl font-semibold mb-6 text-center my-4">
         Este servicio es simple. Redactaré anuncios y páginas de ventas que te hagan 
@@ -110,7 +110,7 @@ export default function Servicio() {
       </p>
       
       <p className="text-lg sm:text-xl font-normal">
-        Y no es fácil. Requiere mucho esfuerzo, observación. Con la práctica suficiente, puedes llegar 
+        Y no es fácil. Requiere mucho esfuerzo, observación. Es de esas tareas que un mono no podría hacer, aunque con la práctica suficiente y si no eres un mono, puedes llegar 
         a redactar textos tan buenos que harán que... 
       </p>
       <h2 className="text-2xl sm:text-3xl font-semibold mb-6 text-center my-4">
@@ -138,7 +138,7 @@ export default function Servicio() {
         tu negocio.
       </p>
       <p className="text-lg sm:text-xl font-normal">
-        Mejore mucho mi forma de escribir y de redactar titulares atractivos probando lo que funcionaba y lo que no 
+        Mejoré mucho mi forma de escribir y de redactar titulares atractivos probando lo que funcionaba y lo que no 
         vendiendome a mí misma. 
       </p>
       <p className="text-lg sm:text-xl font-normal">
@@ -164,7 +164,8 @@ export default function Servicio() {
         ¿Qué incluye este servicio?
       </h3>
       <p className="text-lg sm:text-xl font-normal">
-        Incluye una sesión inicial (de varias horas) donde me contarás todos los detalles de tu negocio y tu producto o servicio y
+        Incluye una sesión inicial de varias horas donde me contarás todos los detalles de tu negocio y tu producto o servicio (hasta el 
+        último cumpleaños de tu sobrino si hace falta) y
          que yo redacte después tu página de ventas, tus anuncios (los que quieras publicar en ese momento) y 
         todos los textos de tu sitio web. También, como te dije antes, al finalizar el servicio te regalo una formación
         escrita donde te explico con detalle que técnicas he utilizado y como las puedes aplicar tú.
@@ -199,7 +200,7 @@ export default function Servicio() {
         ¿Este servicio vale para [introduce aquí tu negocio] del sector de [introduce aquí tu sector]?
       </h3>
       <p className="text-lg sm:text-xl font-normal">
-        Este servicio vale para cualquier negocio honesto de cualquier sector independemente de lo que sea que venda
+        Este servicio vale para cualquier negocio honesto y con dos dedos de frente de cualquier sector independemente de lo que sea que venda
         y de quienes sean sus clientes. 
       </p>
       <p className="text-lg sm:text-xl font-normal">
@@ -213,7 +214,7 @@ export default function Servicio() {
         ¿Hay garantía de devolución?
       </h3>
       <p className="text-lg sm:text-xl font-normal">
-        No. Si crees que mi servicio no te ayudará y que no amortizarás la inversión mi recomendación honesta y genuina es que no lo compres.
+        No. Si crees que mi servicio no te ayudará, que soy una vendehumos y que no amortizarás la inversión mi recomendación honesta y genuina es que no lo compres.
       </p>
 
       <h3 className="text-lg sm:text-xl font-bold">
@@ -221,7 +222,7 @@ export default function Servicio() {
       </h3>
       <p className="text-lg sm:text-xl font-normal">
         Me encanta halloween y no hago descuentos de Navidad, ni de BlackFriday ni 
-        por Halloween cuando me disfrazo de homunculo. <strong className="text-red-600">El precio más bajo que vas a encontrar son 7260€ y
+        por Halloween cuando me disfrazo de arbusto. <strong className="text-red-600">El precio más bajo que vas a encontrar son 7260€ y
           el año que viene será más alto </strong>
       </p>
       <h3 className="text-lg sm:text-xl font-bold">
@@ -233,7 +234,8 @@ export default function Servicio() {
       </p>
       <p className="text-lg sm:text-xl font-normal">
         Lo que yo hago supone una inversión de dinero y es muy rentable si tu producto encaja con los intereses de 
-        los consumidores, pero no hago milagros ni convierto el agua en vino, por lo que si no cumples los dos 
+        los consumidores, pero no hago milagros ni convierto el agua en vino (para eso tu sugiero que inviertas 
+        tus 7260€ en un viaje a Fatima), por lo que si no cumples los dos 
         requisitos anteriores te recomiendo encarecidamente que no lo compres.
       </p>
 
