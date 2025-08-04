@@ -1,3 +1,18 @@
+export const metadata = {
+  title: 'Juan el de Tinder',
+  description:
+    'Juan el de Tinder me enseñó una valiosa lección sobre copywriting que tú también puedes aplicar para mejorar tu negocio.',
+    keywords: [
+      'Copywriting',
+      'Copywriter',
+      'Como vender por internet',
+      'Como redactar una página de ventas',
+      'Escritura persuasiva',
+      'Redacción publicitaria',
+    ],
+    authors: [{ name: 'Maria Lipiz', url: 'https://www.miraencomentarios.com' }],
+    robots: 'index, follow',
+}
 export default function Bienvenido() {
   return (
     <main className="flex flex-col items-start justify-start px-6 sm:px-12 lg:px-52 py-12 gap-5">

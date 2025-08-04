@@ -1,3 +1,12 @@
+export const metadata = {
+  title: 'Confirma tu email',
+    
+  authors: [{ name: 'Maria Lipiz', url: 'https://www.miraencomentarios.com' }],
+    
+  
+  
+}
+
 export default function SuccessPage() {
   return (
     <main className="flex flex-col items-start justify-start px-6 sm:px-12 lg:px-52 py-12 gap-5">
