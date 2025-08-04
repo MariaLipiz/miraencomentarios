@@ -83,10 +83,10 @@ export default function Producto() {
                 data-commerce
                 className="max-w-lg px-8 py-6 text-center rounded-lg font-medium text-white text-xl bg-red-600 hover:bg-red-500 transition-colors duration-200 my-6"
             >
-                Suscribirme a tu email semanal
+                Suscribirme a tu email semanal por 25€/mes
             </a>
             <p className="text-lg sm:text-xl font-normal text-gray-600 text-center">
-        Impuestos incluidos
+        Impuestos incluidos. Cancela cuando quieras.
       </p>
       <p className="text-lg sm:text-xl font-normal text-gray-600 text-center">
         *Pago seguro con tarjeta*
