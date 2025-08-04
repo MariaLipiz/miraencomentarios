@@ -97,7 +97,7 @@ export default function Home() {
       <NewsletterForm />
 
       <p className="text-base sm:text-lg font-medium">
-      PD: Con esto conseguirás caerle mal a tu cuñado todologo. 
+      PD: Con esto conseguirás caerle mal a tu cuñado. 
       </p>
       <p className="text-base sm:text-lg font-medium">
       PD2: Nada más apuntarte recibirás un <strong className="text-red-600">regalo</strong> en el que te cuento en 1.306 palabras lo que aprendí sobre copywriting de un chaval aburridisimo que conocí por Tinder.
