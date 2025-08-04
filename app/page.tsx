@@ -82,12 +82,12 @@ export default function Home() {
       Un negro, un moro, un liberal y tu abuela. 
       </p>
       <p className="text-base sm:text-lg font-normal">
-      Cada día envio un email hablando de esto y <strong>te enseño a hacer que las personas sientan 
+      Cada día envio un email hablando de esto y <strong>te doy una estrategia para hacer que las personas sientan 
       cosas y compren lo que vendas.</strong> También vendo.
       </p>
       
       <p className="text-base sm:text-lg font-normal">
-      No apto para huevones, ofendidos y mileuristas que quieran seguir siendolo.
+      No apto para huevones, ofendidos y funcionarios que quieran seguir siendolo.
       </p>
       <p className="text-base sm:text-lg font-normal">
       Te apuntas abajo, aunque si eres uno de ellos <strong>seguro que no te apuntarás.</strong>
