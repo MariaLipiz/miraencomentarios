@@ -13,6 +13,9 @@ export default function Producto() {
                 Todo el mundo quiere ganar dinero pero solo unos pocos valientes están dispuestos a leer un email semanal 
                 para conseguirlo
               </h1>
+              <p className="text-2xl sm:text-3xl font-bold mb-6 text-red-600">
+              ATENCIÓN: ACCESO CERRADO
+              </p>
               
         
               <p className="text-base sm:text-lg font-normal">
@@ -77,7 +80,7 @@ export default function Producto() {
             <h2 className="text-2xl sm:text-3xl font-semibold mb-6 text-center my-4">
         Lección semanal de copywriting para vender más y hacer tu negocio más atractivo <span className="text-red-800 text-4xl">25€/mes</span>
       </h2>
-        
+        {/*
             <a
                 href="https://miraencomentarios.kit.com/products/leccion-semanal-de-copywriting"
                 data-commerce
@@ -85,7 +88,9 @@ export default function Producto() {
             >
                 Suscribirme a tu email semanal por 25€/mes
             </a>
+            */}
             <p className="text-lg sm:text-xl font-normal text-gray-600 text-center">
+                
         Impuestos incluidos. Cancela cuando quieras.
       </p>
       <p className="text-lg sm:text-xl font-normal text-gray-600 text-center">
@@ -93,6 +98,7 @@ export default function Producto() {
       </p>
       </div>
         </main>
+        
     </>
   );
 }
