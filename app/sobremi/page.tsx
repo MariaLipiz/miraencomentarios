@@ -1,4 +1,5 @@
 import SubscribeForm from '@/components/NewsletterForm';
+import Image from 'next/image';
 
 export const metadata = {
   title: 'Sobre mí',
@@ -33,6 +34,16 @@ export default function Sobremi() {
     <main className="flex flex-col items-start justify-start px-6 sm:px-12 lg:px-52 py-12 gap-5">
 
       
+    <div className="flex flex-col sm:flex-row  gap-6 items-start sm:items-center pb-6">
+      <Image
+        className="rounded-full w-30 h-30 sm:w-40 sm:h-40"
+
+        src="/images/Maria-Lipiz.jpg"
+        alt="Mi foto"
+        width={200}
+        height={200}
+      />
+      <div>
 
         <h1 className="text-4xl sm:text-5xl font-bold mb-6 ">
         María Lípiz
@@ -40,14 +51,22 @@ export default function Sobremi() {
       <h2 className="text-2xl sm:text-3xl max-w-3xl font-semibold mb-6">
         Copywriter. <span className="text-red-600">Persona no domesticada </span>
       </h2>
+    </div>
+      
+    </div>
 
       <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Te voy a contar una reflexión curiosa que probablemente te parecerá una gilipollez y quizás no entenderás, pero que si 
-        lees con atención te servirá para redactar mejor tus páginas de ventas, tu curriculum y cualquier descripción 
-        sobre ti o sobre un producto.
+        Esa de ahí soy yo, y estaba sonriendo porque me veía reflejada en la tele y a todos
+        nos hace ilusión vernos reflejados en algo. Aunque ese algo sea la tele.
+      </p>
+
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        También te voy a contar una reflexión curiosa que probablemente te parecerá una gilipollez y quizás no entenderás, pero que si 
+        lees con atención te servirá para redactar mejor tus páginas de ventas y las descripciones 
+        de tus productos.
       </p>
       <p className="text-base sm:text-lg max-w-3xl font-normal">
-        También vale para más cosas, pero esas <strong>te las cuento como regalo por suscribirte a mi email diario</strong>, que sinó me lío a hablar y no 
+        Vale para más cosas, pero esas <strong>te las cuento como regalo por suscribirte a mi email diario</strong>, que sinó me lío a hablar y no 
         acabamos nunca. También te hablaré de Juan, un chico que me dio like en Tinder y del que podemos aprender 
         muchas cosas.
       </p>

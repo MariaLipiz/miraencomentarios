@@ -159,7 +159,7 @@ export default function Bienvenido() {
       <p className="text-base sm:text-lg font-normal">
         Juan y yo no llegamos a hablar nunca, y seguro que al leer esto habrá pasado una de estas tres cosas:
       </p>
-      <ul className="list-disc pl-6 text-base sm:text-lg font-normal">
+      <ul className="list-disc pl-6 text-base sm:text-lg font-normal space-y-4">
         <li>Que ya sepas esto y estes ganando dinero con ello</li>
         <li>Que no lo sepas, corras a cambiar todos los textos de tu web y empieces a ganarlo</li>
         <li>Que no lo sepas, lo leas, arrugues la nariz y vayas a canva a buscar unas plantillas 
