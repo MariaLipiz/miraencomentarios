@@ -1,6 +1,5 @@
 import NewsletterForm from '@/components/NewsletterForm';
 import Script from 'next/script'
-import Link from 'next/link';
 
 export const metadata = {
   title: 'Maria Lipiz | Copywriter',
