@@ -90,7 +90,7 @@ export default function Home() {
       No apto para huevones, ofendidos y mileuristas que quieran seguir siendolo.
       </p>
       <p className="text-base sm:text-lg font-normal">
-      Te apuntas abajo. Si eres uno de ellos <strong>seguro que no te apuntarás.</strong>
+      Te apuntas abajo, aunque si eres uno de ellos <strong>seguro que no te apuntarás.</strong>
       </p>
       
 
