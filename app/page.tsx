@@ -79,32 +79,33 @@ export default function Home() {
       
 
       <p className="text-base sm:text-lg font-normal">
-      Una vez escuché Isra, un grande del copy, decir que él escribía mucho y observaba a la gente.
+      Un negro, un moro, un liberal y tu abuela. 
       </p>
       <p className="text-base sm:text-lg font-normal">
-      Será por eso que es un grande. No se.
+      Cada día envio un email hablando de esto y <strong>te enseño a hacer que las personas sientan 
+      cosas y compren lo que vendas.</strong> También vendo.
       </p>
       
       <p className="text-base sm:text-lg font-normal">
-      Lo que sí sé, es que escribo mucho y <strong>cada día te envío un email </strong> para aprender a 
-      hacer que las personas sientan cosas y compren lo que vendas.
+      No apto para huevones, ofendidos y mileuristas que quieran seguir siendolo.
       </p>
       <p className="text-base sm:text-lg font-normal">
-      Te apuntas abajo. 
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-      Nada más apuntarte recibirás un <strong>regalo </strong> en el que te cuento lo que aprendí sobre copywriting de un chaval aburridisimo que conocí por Tinder.
+      Te apuntas abajo. Si eres uno de ellos <strong>seguro que no te apuntarás.</strong>
       </p>
       
 
       <NewsletterForm />
 
       <p className="text-base sm:text-lg font-medium">
-      PD: Con esto conseguirás caerle mal a tu cuñado. 
+      PD: Con esto conseguirás caerle mal a tu cuñado todologo. 
       </p>
       <p className="text-base sm:text-lg font-medium">
-      PD2: Si te esfuerzas lo suficiente, también a tu otro cuñado. 
+      PD2: Nada más apuntarte recibirás un <strong className="text-red-600">regalo</strong> en el que te cuento en 1.306 palabras lo que aprendí sobre copywriting de un chaval aburridisimo que conocí por Tinder.
       </p>
+
+
+
+      
       
 
       

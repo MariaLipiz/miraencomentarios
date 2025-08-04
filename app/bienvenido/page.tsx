@@ -19,8 +19,11 @@ export default function Bienvenido() {
       
       <h1 className="text-4xl sm:text-5xl font-bold mb-6">
         Juan el de Tinder me enseñó una valiosa lección sobre copywriting que tú también puedes aplicar
-        para mejorar tu negocio.
+        para mejorar tu negocio
       </h1>
+      <h2 className="text-2xl sm:text-3xl font-bold mb-6">
+        Aunque <strong className="text-red-600">seguro que no lo aplicarás</strong> porque tu negocio es único y especial y a tus clientes no les gustaría.
+      </h2>
       <p className="text-base sm:text-lg font-normal">
         Mira.
       </p>
@@ -30,17 +33,21 @@ export default function Bienvenido() {
         acción concreta que tu quieres que hagan.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Yo no creo que mi amiga tenga razón y de hecho, creo que si cambiase esa mentalidad 
-        podría ganar mucho más dinero, pero aun así seré breve.  
+        Yo no creo que mi amiga tenga razón y de hecho, estoy convencida de que está 
+        equivocada y que si cambiase esa mentalidad de mierda
+        podría ganar mucho más dinero y vivir más tranquila, pero aun así seré breve.  
       </p>
       <p className="text-base sm:text-lg font-normal">
         Cuando tenía 22 años acababa de salir de una relación terrible muy terrible. Mi madre,
-        que es una señora muy enrrollada y sabe mucho, me sugirió que me hiciese un perfil de 
+        que es una señora muy enrrollada y sabe mucho de muchas cosas, me sugirió que me hiciese un perfil de 
         Tinder y conociese a alguien (por tercera vez).
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Le hice caso. Me hice un perfil bastante turbio con unas fotos mías super rancias y una 
-        descripción super molona y cortante de la que te hablaré un día de estos en mis emails y gracias 
+        Le hice caso. 
+      </p>
+      <p className="text-base sm:text-lg font-normal">
+        Me hice un perfil bastante turbio con unas fotos mías super rancias y una 
+        descripción muy cortante para filtrar subnormales de la que te hablaré un día de estos en mis emails y gracias 
         a la cual conocí a un chaval increible que hoy día es mi novio.
       </p>
       <p className="text-base sm:text-lg font-normal">
@@ -52,7 +59,7 @@ export default function Bienvenido() {
         podía ver a toda la gente a la que le gustaba. Todo un privilegio.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Juan era guapo. Tenía los ojos muy negros, la barba cuidada, seis años más que yo y tenía cara de ser 
+        Juan era mono. Tenía los ojos muy negros, la barba cuidada, seis años más que yo y tenía cara de ser 
         esa clase de personas con las que nadie querria meterse. No por mala ostia. Tenía cara de 
         ser una persona muy asertiva.
       </p>
@@ -78,20 +85,20 @@ export default function Bienvenido() {
         Tengo perro.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Su perfil era un coñazo. Lo siento por ti Juan, pero no voy a hacer match contigo.
+        Su perfil era un coñazo. Lo siento por ti Juan, pero no voy a hacer match con una piedra.
       </p>
       <p className="text-base sm:text-lg font-normal">
         Esa descripción me dejo el cerebro del revés y comence a pensar.
       </p>
       <p className="text-base sm:text-lg font-normal">
         ¿Qué me habría gustado leer sobre Juan? ¿Que tenía que haberme dicho Juan para que ni me pensase 
-        el darle like?
+        el darle like? 
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Como mínimo, algo de texto. Redactado quiero decir, no una lista. 
+        Como mínimo, algo de texto. Redactado correctamente quiero decir, no una lista. 
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Luego, algo gracioso o ingenioso que llamase mi atención.
+        Luego, algo gracioso, ofensivo e ingenioso que llamase mi atención. Por ejemplo un chiste sobre comunistas.
       </p>
       <p className="text-base sm:text-lg font-normal">
         Y después, algo confuso que me dejase pensando un buen rato y que me generase la necesidad 
@@ -117,7 +124,7 @@ export default function Bienvenido() {
       <p className="text-base sm:text-lg font-normal">
         La primera descripción (la de Juan) no invita a absolutamente nada. Como mucho, si te 
         gusta alguna de las cosas que le gustan a Juan o te mueres de ganas por que alguien 
-        vaya a la montaña contigo, igual le escribes un -Hola que tal- e iniciais una conversación 
+        vaya a la montaña contigo y te secuestre, igual le escribes un -Hola que tal- e iniciais una conversación 
         de besugos que es probable que no llegue a ningún sitio.
       </p>
       <p className="text-base sm:text-lg font-normal">
@@ -129,6 +136,9 @@ export default function Bienvenido() {
       </p>
       <p className="text-base sm:text-lg font-normal">
         Pues que eres una cabra.
+      </p>
+      <p className="text-base sm:text-lg font-normal">
+        O yo, que soy más gallega que la empanada de calamares aunque todo el mundo diga que no porque nací en la provincia de León, le diria que si le gusta follar cabras.
       </p>
       <p className="text-base sm:text-lg font-normal">
         ¿Si te mola la cerveza y los libros? Pues que le gustarías a su perro.
@@ -151,25 +161,31 @@ export default function Bienvenido() {
         Las caracteristicas no interesan a nadie. Son aburridas y no llaman la atención. Pero si 
         coges esas caracteristicas, las haces tuyas, las envuelves, y redactas un texto que haga que el lector se quede 
         con ganas de más, la cosa cambia. Captas la atención, dices de forma implicita algo más 
-        sobre como eres y dejas al lector a medias.
+        sobre como eres y dejas al lector a medias como te dejo a ti tu ex. Igual.
       </p>
       <p className="text-base sm:text-lg font-normal">
         Esto mismo, aplicado a un sitio web, a un perfil de Linkedin a un anuncio, a lo que sea, es oro.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Juan y yo no llegamos a hablar nunca, y seguro que al leer esto habrá pasado una de estas tres cosas:
+        Juan y yo, gracias a Dios, no llegamos a hablar nunca, y seguro que al leer esto habrá pasado una de estas tres cosas:
       </p>
       <ul className="list-disc pl-6 text-base sm:text-lg font-normal space-y-4">
-        <li>Que ya sepas esto y estes ganando dinero con ello</li>
-        <li>Que no lo sepas, corras a cambiar todos los textos de tu web y empieces a ganarlo</li>
+        <li>Que ya sepas esto y estes ganando dinero con ello y follando más</li>
+        <li>Que no lo sepas, corras a cambiar todos los textos de tu web y empieces a ganarlo y a follar más</li>
         <li>Que no lo sepas, lo leas, arrugues la nariz y vayas a canva a buscar unas plantillas 
           de colorines super molonas e infalibles para plantar en tu web y tus folletos y hacerte rico 
-          en 30 días laborables (En este caso, te diré que lo tuyo no tiene solución y que me hagas 
+          en 30 días laborables y que sigas follando un total de 0 veces al mes (En este caso, te diré que lo tuyo no tiene solución y que me hagas 
           el favor de desuscribirte cuanto antes) 
         </li>
       </ul>
       <p className="text-base sm:text-lg font-normal">
         Sea como sea, te contaré más cosas. Por email, claro está.
+      </p>
+      <p className="text-base sm:text-lg font-normal">
+        Por el momento, te pediría que dejases de poner lo comprometido que estás con tu cliente en tu página web.
+      </p>
+      <p className="text-base sm:text-lg font-normal">
+        Ya se que tus clientes son únicos y que tu negocio es especial, pero hazme el favor.
       </p>
       <p className="text-base sm:text-lg font-normal">
         Pasa un fantástico mediodía.
