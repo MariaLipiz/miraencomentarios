@@ -1,5 +1,43 @@
 import SubscribeForm from '@/components/NewsletterForm';
 
+export const metadata = {
+  title: 'Sobre mí',
+  description:
+    'Aquí te contaré una cosa que te ayudará a redactar mejor tus páginas de ventas y tu curriculum',
+    keywords: [
+      'Copywriting',
+      'Copywriter',
+      'Como vender por internet',
+      'Como redactar una página de ventas',
+      'Escritura persuasiva',
+      'Redacción publicitaria',
+      'Newsletter diaria',
+    ],
+    authors: [{ name: 'Maria Lipiz', url: 'https://www.miraencomentarios.com' }],
+    robots: 'index, follow',
+  openGraph: {
+    title: 'Maria Lipiz | Copywriter',
+    description:
+      'Aquí te contaré una cosa que te ayudará a redactar mejor tus páginas de ventas y tu curriculum',
+    url: 'https://www.miraencomentarios.com/sobremi',
+    siteName: 'Maria Lipiz Copywriter',
+    images: [
+      {
+        url: 'https://miraencomentarios.com/og-image.jpg',
+        width: 1200,
+        height: 630,
+        alt: 'Maria Lipiz | Copywriter',
+      },
+    ],
+    locale: 'es_ES',
+    type: 'website',
+  },
+  icons: {
+    icon: '/favicon.svg',
+    apple: '/apple-icon.png',
+  },
+}
+
 export default function Sobremi() {
   return (
     <main className="flex flex-col items-start justify-start px-6 sm:px-12 lg:px-52 py-12 gap-5">
@@ -20,7 +58,11 @@ export default function Sobremi() {
       </p>
       <p className="text-base sm:text-lg max-w-3xl font-normal">
         También vale para más cosas, pero esas <strong>te las cuento como regalo por suscribirte a mi email diario</strong>, que sinó me lío a hablar y no 
-        acabamos nunca.
+        acabamos nunca. También te hablaré de Juan, un chico que me dio like en Tinder y del que podemos aprender 
+        muchas cosas.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Que si, que me lio.
       </p>
       <p className="text-base sm:text-lg max-w-3xl font-normal">
         Empiezo.
@@ -32,7 +74,10 @@ export default function Sobremi() {
         El otro día estaba leyendo cosas aleatorias por internet, como hago cada día desde que mi prima segunda me compró 
         mi primer movil con acceso a internet. 
         Me picó la curiosidad y decidí buscar información sobre criaderos 
-        de perros. Estos lugares a los que vas y compras el perro que más te guste. No me preguntes porqué.
+        de perros. Estos lugares a los que vas y compras el perro que más te guste.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        No me preguntes porqué.
       </p>
       <p className="text-base sm:text-lg max-w-3xl font-normal">
         Mirando los perros que tenían en uno de los criaderos, vi que cada uno venía acompañado de una ficha.
@@ -46,18 +91,19 @@ export default function Sobremi() {
       </p>
 
       <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Esa ficha debería ser suficiente para conocer y evaluar al animal,
-        y después, tomar una decisión. Si lo adoptabas o no. Te daba la capacidad para decidir si era digno de ocupar un lugar en tu casa.
+        Se supone que esa ficha te da la información suficiente para conocer y evaluar al animal,
+        y después, tomar una decisión. Si lo adoptabas o no. Te da la capacidad para decidir si era digno de ocupar un lugar en tu casa.
       </p>
       <p className="text-base sm:text-lg max-w-3xl font-normal">
         Joder.
       </p>
       <p className="text-base sm:text-lg max-w-3xl font-normal">
-        No se tu. yo hubiese preferido que me dijesen que Luna, la pastora alemana, era capaz de abrir las 
-        puertas de casa con la pata, oler si un invitado entraba en mi casa con maria en el bolsillo y que un día se comio una zapatilla y dejo el sofá echo perdido despues de haber vomitado trocitos de caucho. No se. 
+        No se tú, pero yo hubiese preferido que me dijesen que Luna, la pastora alemana, era capaz de abrir 
+        puertas con la pata, oler si un invitado entraba en mi casa con maria en el bolsillo y que un 
+        día se comio una zapatilla y dejo el sofá echo mierda despues de haber vomitado trocitos de caucho. No se. 
       </p>
        <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Pero bueno, que eso no fue lo que pasó. En su ficha no ponia eso sobre Luna.
+        Pero bueno, que eso no fue lo que pasó. En su ficha no ponia eso.
       </p>
       <p className="text-base sm:text-lg max-w-3xl font-normal">
         Si lo piensas, un curriculum no es muy diferente. 
@@ -70,25 +116,28 @@ export default function Sobremi() {
         especialista en hacer PowerPoints. 
       </p>
       <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Luego, le das el poder a un tio de recursos humanos que no sabe ni de que va lo que haces para decidir si eres digno, si mereces un sitio en su empresa, 
+        Luego, le das el poder a un tio de recursos humanos que no tiene la capacidad de entender lo que haces para decidir si eres digno, si mereces un sitio en su empresa, 
         si eres un candidato apto o debes ser despreciado.
       </p>
       <p className="text-base sm:text-lg max-w-3xl font-normal">
         Yo no soy Luna. No quiero que nadie lea una ficha sobre mí. Muchos menos escribirla yo. Tampoco me gusta la idea de comprar perros.
       </p>
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Por eso, en esta sección no me reduciré a una lista de características.
+      <p className="text-base sm:text-lg max-w-3xl font-semibold">
+        ¿Por qué te cuento esto?
       </p>
       <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Dicen por ahí que debo decir algo que llame mucho la atención. Algo memorable, que haga llorar 
-        hasta a Elon Musk, para que tú, como lector, te enamores de mí.
+        Porque en esta sección no me convertiré en una lista de características.
+      </p>
+      <p className="text-base sm:text-lg max-w-3xl font-normal">
+        Dicen los de marketing que debo decir algo que llame mucho la atención. Algo memorable, que haga llorar 
+        hasta a las cebollas, para que tú, como lector, te enamores de mí.
       </p>
       <p className="text-base sm:text-lg max-w-3xl font-normal">
         Y luego de lo que hago.
       </p>
       <p className="text-base sm:text-lg max-w-3xl font-normal">
         Después, debo contarte algo sobre lo comprometida que estoy contigo, mi larga trayectoria, 
-        mis años de experiencia y lo bien que hago el pino puente sin manos. Mentira, no hago el pino puente. 
+        mis años de experiencia y lo bien que hago el pino puente sin manos y sin dientes. Mentira, no hago el pino puente. 
       
       </p>
       

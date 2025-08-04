@@ -8,32 +8,33 @@ const inter = Inter({
 });
 
 // Metadata
-export const metadata: Metadata = {
-  title: 'Escribe. Liga. Vende | Copywriter',
+export const metadata = {
+  title: 'Maria Lipiz | Copywriter',
   description:
-    'Cada día un email para ayudarte a ligar más y mejor',
-  keywords: [
-    'Técnicas de seducción',
-    'Como ligar',
-    'Copywriting',
-    'Copywriter',
-    'Escritura persuasiva',
-    'Redacción publicitaria',
-  ],
-  authors: [{ name: 'Maria Lipiz', url: 'https://www.escribeligavende.com' }],
-  robots: 'index, follow',
+    'Cada día un email para ayudarte a que las personas sientan cosas y compren lo que ofreces',
+    keywords: [
+      'Copywriting',
+      'Copywriter',
+      'Como vender por internet',
+      'Como redactar una carta de ventas',
+      'Escritura persuasiva',
+      'Redacción publicitaria',
+      'Newsletter diaria',
+    ],
+    authors: [{ name: 'Maria Lipiz', url: 'https://www.miraencomentarios.com' }],
+    robots: 'index, follow',
   openGraph: {
-    title: 'Escribe. Liga. Vende | Copywriter',
+    title: 'Maria Lipiz | Copywriter',
     description:
-      'Cada día un email para ayudarte a ligar más y mejor',
-    url: 'https://www.escribeligavende.com',
-    siteName: 'Escribe. Liga. Vende',
+      'Cada día un email para ayudarte a que las personas sientan cosas y compren lo que ofreces',
+    url: 'https://www.miraencomentarios.com',
+    siteName: 'Maria Lipiz Copywriter',
     images: [
       {
-        url: 'https://escribeligavende.com/og-image.jpg',
+        url: 'https://miraencomentarios.com/og-image.jpg',
         width: 1200,
         height: 630,
-        alt: 'Escribe. Liga. Vende | Copywriter',
+        alt: 'Maria Lipiz | Copywriter',
       },
     ],
     locale: 'es_ES',

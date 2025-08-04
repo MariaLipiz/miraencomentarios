@@ -1,32 +1,33 @@
 import NewsletterForm from '@/components/NewsletterForm';
 import Script from 'next/script'
+import Link from 'next/link';
 
 export const metadata = {
-  title: 'Escribe. Liga. Vende | Copywriter',
+  title: 'Maria Lipiz | Copywriter',
   description:
-    'Cada día un email para ayudarte a ligar más y mejor',
+    'Cada día un email para ayudarte a que las personas sientan cosas y compren lo que ofreces',
     keywords: [
-      'Técnicas de seducción',
-      'Como ligar',
       'Copywriting',
       'Copywriter',
+      'Como vender por internet',
+      'Como redactar una página de ventas',
       'Escritura persuasiva',
       'Redacción publicitaria',
     ],
-    authors: [{ name: 'Maria Lipiz', url: 'https://www.escribeligavende.com' }],
+    authors: [{ name: 'Maria Lipiz', url: 'https://www.miraencomentarios.com' }],
     robots: 'index, follow',
   openGraph: {
-    title: 'Escribe. Liga. Vende | Copywriter',
+    title: 'Maria Lipiz | Copywriter',
     description:
-      'Cada día un email para ayudarte a ligar más y mejor',
-    url: 'https://www.escribeligavende.com',
-    siteName: 'Escribe. Liga. Vende',
+      'Cada día un email para ayudarte a que las personas sientan cosas y compren lo que ofreces',
+    url: 'https://www.miraencomentarios.com',
+    siteName: 'Maria Lipiz Copywriter',
     images: [
       {
-        url: 'https://escribeligavende.com/og-image.jpg',
+        url: 'https://miraencomentarios.com/og-image.jpg',
         width: 1200,
         height: 630,
-        alt: 'Escribe. Liga. Vende | Copywriter',
+        alt: 'Maria Lipiz | Copywriter',
       },
     ],
     locale: 'es_ES',
@@ -74,7 +75,7 @@ export default function Home() {
       />
     <main className="flex flex-col items-start justify-center px-6 sm:px-12 lg:px-52 py-6 lg:py-12 gap-5 xl:h-screen">
       <h1 className="text-4xl sm:text-5xl font-bold mb-6 ">
-        Copywriting para darle envidia a tu cuñado y caerle mal
+        Copywriting para darle en los morros a tu cuñado
       </h1>
       
 
@@ -82,28 +83,31 @@ export default function Home() {
       Una vez escuché Isra, un grande del copy, decir que él escribía mucho y observaba a la gente.
       </p>
       <p className="text-base sm:text-lg font-normal">
-      Será por eso que es un grande. 
+      Será por eso que es un grande. No se.
       </p>
+      
       <p className="text-base sm:text-lg font-normal">
-      No se.
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-      Lo que sí sé, es que escribo cada día y <strong>cada día te envío un email </strong> para aprender a 
+      Lo que sí sé, es que escribo mucho y <strong>cada día te envío un email </strong> para aprender a 
       hacer que las personas sientan cosas y compren lo que vendas.
       </p>
       <p className="text-base sm:text-lg font-normal">
-      Te apuntas abajo.
+      Te apuntas abajo. 
+      </p>
+      <p className="text-base sm:text-lg font-normal">
+      Nada más apuntarte recibirás un <strong>regalo </strong> en el que te cuento lo que aprendí sobre copywriting de un chaval aburridisimo que conocí por Tinder.
       </p>
       
 
       <NewsletterForm />
 
-      <p className="text-base sm:text-lg font-semibold">
+      <p className="text-base sm:text-lg font-medium">
       PD: Con esto conseguirás caerle mal a tu cuñado. 
       </p>
-      <p className="text-base sm:text-lg font-semibold">
+      <p className="text-base sm:text-lg font-medium">
       PD2: Si te esfuerzas lo suficiente, también a tu otro cuñado. 
       </p>
+      
+
       
     
 

@@ -1,5 +1,45 @@
 import Link from 'next/link';
 
+export const metadata = {
+  title: 'Copywriting para negocios sin(verguenza)',
+  description:
+    'Redactaré anuncios y páginas de ventas que te hagan destacar frente a tu competencia para vender más, vender a precios más altos y a clientes mejores.',
+    keywords: [
+      'Copywriting',
+      'Copywriter',
+      'Como vender por internet',
+      'Copywriting para negocios',
+      'Copywriting para empresas',
+      'Como redactar una página de ventas',
+      'Escritura persuasiva',
+      'Redacción publicitaria',
+      'Newsletter diaria',
+    ],
+    authors: [{ name: 'Maria Lipiz', url: 'https://www.miraencomentarios.com' }],
+    robots: 'index, follow',
+  openGraph: {
+    title: 'Copywriting para negocios sin(verguenza)',
+    description:
+      'Redactaré anuncios y páginas de ventas que te hagan destacar frente a tu competencia para vender más, vender a precios más altos y a clientes mejores.',
+    url: 'https://www.miraencomentarios.com/servicio',
+    siteName: 'Maria Lipiz Copywriter',
+    images: [
+      {
+        url: 'https://miraencomentarios.com/og-image.jpg',
+        width: 1200,
+        height: 630,
+        alt: 'Maria Lipiz | Copywriter',
+      },
+    ],
+    locale: 'es_ES',
+    type: 'website',
+  },
+  icons: {
+    icon: '/favicon.svg',
+    apple: '/apple-icon.png',
+  },
+}
+
 export default function Servicio() {
   return (
     <main className="flex flex-col  px-6 sm:px-12 lg:px-52 py-12 gap-10 text-justify">

@@ -1,188 +1,160 @@
 export default function Bienvenido() {
   return (
     <main className="flex flex-col items-start justify-start px-6 sm:px-12 lg:px-52 py-12 gap-5">
+      
       <h1 className="text-4xl sm:text-5xl font-bold mb-6">
-        Bienvenido a mi nidito de indecencia
+        Juan el de Tinder me enseñó una valiosa lección sobre copywriting que cualquiera puede aplicar
+        para mejorar su negocio.
       </h1>
       <p className="text-base sm:text-lg font-normal">
         Mira.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Durante más de 10 años he leído libros de todo tipo.
+        Hace poco una buena amiga mía me dijo que la gente no lee las páginas de ventas,
+        ni los emails, ni este tipo de regalos que se hacen a desconocidos cuando realizan una 
+        acción concreta que tu quieres que hagan.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        En especial, libros sobre psicología humana, socialización y cosas de estas.
+        Yo no creo que mi amiga tenga razón y de hecho, creo que si cambiase esa mentalidad 
+        podría ganar mucho más dinero, pero aun así seré breve.  
       </p>
       <p className="text-base sm:text-lg font-normal">
-        No tonterías de autoayuda. Dios me libre.
+        Cuando tenía 22 años acababa de salir de una relación terrible muy terrible. Mi madre,
+        que es una señora muy enrrollada y sabe mucho, me sugirió que me hiciese un perfil de 
+        Tinder y conociese a alguien (por tercera vez).
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Los he puesto en práctica en múltiples contextos.
+        Le hice caso. Me hice un perfil bastante turbio con unas fotos mías super rancias y una 
+        descripción super molona y cortante de la que te hablaré un día de estos en mis emails y gracias 
+        a la cual conocí a un chaval increible que hoy día es mi novio.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        También he pasado mucho tiempo en Tinder buscando pareja, y como me despertaba curiosidad por algún motivo 
-        que desconozco, estudiando individuos de todos los colores y formas.
+        Sigo.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Te sorprendería la cantidad de información que puedes sacar de un simple chat en Tinder.
+        Coincidí con Juan. Juan me habia dado like unos días atras, y como pagaba el premium 
+        porque ya de meterme me metía bien pues 
+        podía ver a toda la gente a la que le gustaba. Todo un privilegio.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Total, que he sacado muchas conclusiones.
+        Juan era guapo. Tenía los ojos muy negros, la barba cuidada, seis años más que yo y tenía cara de ser 
+        esa clase de personas con las que nadie querria meterse. No por mala ostia. Tenía cara de 
+        ser una persona muy asertiva.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        MUCHAS
+        Buen comienzo parece.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Valiosas para conseguir una relación estable y duradera y para hacer dinero.
+        Deslicé para leer su descripción. 
       </p>
-      
-      <p className="text-base sm:text-lg font-normal">
-        ...
+      <p className="text-sm sm:text-base font-normal italic">
+        Juan 
       </p>
-      <p className="text-base sm:text-lg font-semibold">
-        La primera:
+      <p className="text-sm sm:text-base font-normal italic">
+        28 años
       </p>
-      <p className="text-base sm:text-lg font-normal">
-        Hacer ver a las personas tus límites y tu falta de necesidad (y ser fiel a ello) es lo más jodidamente sexy y atractivo del mundo.
+      <p className="text-sm sm:text-base font-normal italic">
+        1,81m
       </p>
-      <p className="text-base sm:text-lg font-normal">
-        A familiares, a amigos, a compañeros de curro, a clientes, a ligues...
+      <p className="text-sm sm:text-base font-normal italic">
+        Leer, ir a la montaña y salir de cervezas. 
       </p>
-      <p className="text-base sm:text-lg font-normal">
-        A quien quieras.
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-        Claro está, que una cosa es poner límites de forma inteligente y otra pasarse de listo.
+      <p className="text-sm sm:text-base font-normal italic">
+        Tengo perro.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Te pongo un ejemplo tonto pero representativo.
+        Su perfil era un coñazo. Lo siento por ti Juan, pero no voy a hacer match contigo.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Una de las líneas de mi descripción de Tinder decía así:
-      </p>
-      <p className="text-base sm:text-lg font-semibold my-6">
-        -No tolerante con los analfabetos funcionales y los indigentes mentales-
+        Esa descripción me dejo el cerebro del revés y comence a pensar.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Antes de eso, casi todos los tíos que me entraban me decían banalidades como -Hola q tal-. Así tal cual. Obviamente 
-        la conversación se quedaba ahí porque nadie en su sano juicio hablaría con una persona que se presenta de esta forma.
+        ¿Qué me habría gustado leer sobre Juan? ¿Que tenía que haberme dicho Juan para que ni me pensase 
+        el darle like?
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Oye, puse eso en mi descripción, y de repente el primer contacto empezó a cambiar. Ya no era ese -Hola q tal-, sino 
-        un -Por fin una tia con una descripción original por aquí, ¿Podrías decirme por qué no te gustan los 
-        analfabetos?- o -Tu perfil me ha parecido interesante, yo también soy intolerante a los indigentes mentales-.
+        Como mínimo, algo de texto. Redactado quiero decir, no una lista. 
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Esa puta línea era el tema estrella para iniciar conversación.
+        Luego, algo gracioso o ingenioso que llamase mi atención.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        No sé, la gente que es así.
+        Y después, algo confuso que me dejase pensando un buen rato y que me generase la necesidad 
+        de hacer match con Juan aunque fuese solo para preguntarle y salir de dudas. Algo como esto.
+      </p>
+      <p className="text-sm sm:text-base font-normal italic">
+        Juan
+      </p>
+      <p className="text-sm sm:text-base font-normal italic">
+        Me han bastado 28 inviernos para saber que lo que busco es una cabra. Porque sube montañas, 
+        ya sabes.
+
+      </p>
+      <p className="text-sm sm:text-base font-normal italic">
+        ¿Que no te mola disfrutar una pinta mientras hablamos de buenos libros? Lo siento, no le gustarías a mi perro.
+      </p>
+      <p className="text-sm sm:text-base font-normal italic">
+        Si mides más de 1,81m échate desodorante.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Luego todo cobró sentido, claro está. Haciendo pruebas con más joyitas como esta resultó que sucedían cosas.
+        Fíjate en lo siguiente.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        En fin.
+        La primera descripción (la de Juan) no invita a absolutamente nada. Como mucho, si te 
+        gusta alguna de las cosas que le gustan a Juan o te mueres de ganas por que alguien 
+        vaya a la montaña contigo, igual le escribes un -Hola que tal- e iniciais una conversación 
+        de besugos que es probable que no llegue a ningún sitio.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Como extra, te diré que si tienes un negocio, nunca hagas trabajo que no te corresponda y que no te vayan
-        a pagar. Pon límites. Creeme que no quieres convertirte en esa persona. Lo sé por experiencia. Sé de lo que hablo. 
+        Esta segunda es diferente. Dice más cosas sobre Juan e invita a que le mandes un mensaje 
+        más interesante para iniciar la conversación. 
       </p>
       <p className="text-base sm:text-lg font-normal">
-        La de cobrar poco y dar mucho valor extra a petición del cliente no te hace deseable.
+        Si te mola la montaña, ¿Qué le dirías?
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Te convierte en un huevon.
+        Pues que eres una cabra.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        ...
-      </p>
-      <p className="text-base sm:text-lg font-semibold">
-        La segunda:
+        ¿Si te mola la cerveza y los libros? Pues que le gustarías a su perro.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Pégate la boca con cinta aislante y escucha a la persona que tienes delante.
+        ¿Si mides mas de 1,81? Probablemente te rayarías y le escribirías para descubrir 
+        que coño te quiere decir. 
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Conviértete en escuchador profesional. Créeme que el mayor beneficiado serás tú y no la otra persona.
+        Eso, o eres muy fino, has entendido el chiste, y le escribes 
+        para decirle que no se preocupe, que tu sobaco huele muy bien.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        ¿Por qué?
+        ¿Y si mides menos de 1,81? Pues le escribirías también porque te ha hecho gracia la coña.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Porque en el momento que alguien ve que tiene cancha para hablar, te cuenta cosas que te darán muchas pistas acerca de
-        qué quiere la gente, qué le preocupa a la gente, qué ansía tener la gente y qué le da pánico a la gente. Ni más ni menos.
+        ¿Ves la diferencia? 
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Esto es fundamental para saber qué ofrecer a tus clientes/ligues y que esas personas te den dinero/sexo loco/la relación más estable, bonita y duradera que hayas tenido en tu vida.
+        Las caracteristicas no interesan a nadie. Son aburridas y no llaman la atención. Pero si 
+        coges esas caracteristicas, las haces tuyas, las envuelves, y redactas un texto que haga que el lector se quede 
+        con ganas de más, la cosa cambia. Captas la atención, dices de forma implicita algo más 
+        sobre como eres y dejas al lector a medias.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Aparte de esto, si pecas de ser demasiado hablador cuando no toca, lo más probable es que todo el mundo huya de ti como de la peste, que nadie te dé dinero/sexo loco/la relación más estable, bonita y duradera que hayas tenido en tu vida y que termines convirtiéndote en aburridor profesional.
-      </p>
-      
-      <p className="text-base sm:text-lg font-normal">
-        ...
-      </p>
-      <p className="text-base sm:text-lg font-semibold">
-        La tercera:
+        Esto mismo, aplicado a un sitio web, a un perfil de Linkedin a un anuncio, a lo que sea, es oro.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Deja de invertir en cryptos e invierte en ti.
+        Juan y yo no llegamos a hablar nunca, y seguro que al leer esto habrá pasado una de estas tres cosas:
       </p>
+      <ul className="list-disc pl-6 text-base sm:text-lg font-normal">
+        <li>Que ya sepas esto y estes ganando dinero con ello</li>
+        <li>Que no lo sepas, corras a cambiar todos los textos de tu web y empieces a ganarlo</li>
+        <li>Que no lo sepas, lo leas, arrugues la nariz y vayas a canva a buscar unas plantillas 
+          de colorines super molonas e infalibles para plantar en tu web y tus folletos y hacerte rico 
+          en 30 días laborables (En este caso, te diré que lo tuyo no tiene solución y que me hagas 
+          el favor de desuscribirte cuanto antes) 
+        </li>
+      </ul>
       <p className="text-base sm:text-lg font-normal">
-        Algún que otro cryptobro se ha partido el culo cuando le he dicho esto, pero es así.
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-        Tu mejor activo eres tú.
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-        Cuando inviertes en ti, en lo que te gusta, en hacer lo que se te da bien y en buscar la manera de que esto pueda ayudar a los demás, esta cosa acaba convirtiéndose en algo que te hace valioso.
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-        Me da igual si lo tuyo es el ganchillo, pasear gatos, ligar o peinar calvos como un puto pro.
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-        Hazlo muchas veces, persevera, conviértete en un experto, monetízalo incluso, y verás como al final serás alguien más atractivo e interesante, tanto para tus clientes como para tu cita de Tinder del viernes.
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-        Sin necesidad de decir lo guay y lo bueno que eres. Tu habilidad hablará por ti.
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-        Si no me crees piensa en lo siguiente:
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-        Tienes dos ligues. 
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-        A uno de ellos, me lo invento, le apasionan los accidentes aereos y todo lo relaciona con los aviones y las catastrofes.
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-        El tio lo vive, le encanta y profundiza mucho en ese tema para saber cada vez más, por muy raro y turbio que pueda ser el tema. 
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-        Incluso se saca algún dinero en su tiempo libre enseñando a otros, o directamente vive de ello.
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-        El otro, tiene algunos hobbies, aunque la mayor parte del tiempo hace lo que hagan sus amigos o lo que 
-        hagan los demás.
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-        ¿Quién te parece más interesante? ¿Quién tiene mas valor para ti?
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-        Ahora imagina que en vez de ser los accidentes aereos lo que le apasiona, es alguna otra cosa que a ti te despierta curiosidad.
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-        Pues eso.
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-        ...
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-        Espero que este regalo no solicitado te sea de mucha ayuda.
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-        Un besito en la frente.
+        Sea como sea, te contaré más cosas. Por email, claro está.
       </p>
       <p className="text-base sm:text-lg font-normal">
         Pasa un fantástico mediodía.

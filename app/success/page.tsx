@@ -12,19 +12,16 @@ export default function SuccessPage() {
       </p>
       <p className="text-base sm:text-lg font-normal">
         Creí que la herramienta de email que tenía era una mierda y no permitia correos de confirmación, 
-        pero como la vida es buena y el mundo es un lugar justo resulta que sí.
+        pero como la vida es buena y el mundo es un lugar justo resulta que sí. Así que debes confirmar que de verdad quieres entrar.
       </p>
-      <p className="text-base sm:text-lg font-normal">
-        Así que debes confirmar que de verdad quieres entrar.
-      </p>
+      
       <p className="text-base sm:text-lg font-normal">
         Es sencillo.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Vas a tu correo, haces click en el email que acabas de recibir y ya lo tienes.
-      </p>
-      <p className="text-base sm:text-lg font-normal">
-        Cuando confirmes tu correo, serás redirigido a una página que tendrá un regalo de bienvenida.
+        Vas a tu correo, haces click en el email que acabas de recibir y ya lo tienes. 
+        Cuando confirmes tu correo, serás redirigido a una página que tendrá 
+        <strong> tu regalo de bienvenida.</strong>
       </p>
 
       <p className="text-base sm:text-lg  font-normal">
