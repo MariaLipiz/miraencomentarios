@@ -63,7 +63,7 @@ export default function NewsletterForm() {
           <span>
             He leído y acepto la{' '}
             <a
-              href="/politica-privacidad"
+              href="/legal"
               target="_blank"
               rel="noopener noreferrer"
               className="underline hover:text-black"
