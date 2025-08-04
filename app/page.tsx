@@ -58,7 +58,7 @@ export default function Home() {
         {
           "@type": "Offer",
           "name": "Copywriting",
-          "description": "Redacción publicitaria para empresas. Copywriter amateur"
+          "description": "Redacción publicitaria para negocios y empresas."
         },
       ]
     }
@@ -74,7 +74,7 @@ export default function Home() {
       />
     <main className="flex flex-col items-start justify-center px-6 sm:px-12 lg:px-52 py-6 lg:py-12 gap-5 xl:h-screen">
       <h1 className="text-4xl sm:text-5xl font-bold mb-6 ">
-        Copywriting para darle en los morros a tu cuñado
+        Copywriting para darle envidia a tu cuñado
       </h1>
       
 
