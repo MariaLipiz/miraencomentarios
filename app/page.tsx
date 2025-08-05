@@ -82,7 +82,7 @@ export default function Home() {
       Un mileurista, una Charo, un comedoritos y tu abuela. 
       </p>
       <p className="text-lg sm:text-lg font-normal">
-      Cada día envio un email hablando de esto y <strong>te doy una estrategia para hacer que las personas compren lo que vendas</strong> y con la que te venderé algo.
+      Cada día envio un email hablando de esto y <strong>te doy una estrategia para hacer que las personas compren lo que vendas</strong> y que usaré para venderte algo.
       </p>
       
       <p className="text-lg sm:text-lg font-normal">
