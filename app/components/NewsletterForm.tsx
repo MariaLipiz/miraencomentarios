@@ -40,11 +40,11 @@ export default function NewsletterForm() {
           name="email_address"
           placeholder="Tu email menos comunista"
           required
-          className="flex-1 px-4 py-2 max-w-[200px] sm:max-w-[320px] border border-gray-400 rounded-l-md focus:outline-none"
+          className="flex-1 px-4 py-3 sm:py-2 max-w-[200px] sm:max-w-[320px] border border-gray-400 rounded-l-md focus:outline-none"
         />
         <button
           type="submit"
-          className="bg-red-600 text-white px-6 py-2 rounded-r-md hover:bg-gray-900"
+          className="bg-red-600 text-white px-6 py-3 sm:py-2 rounded-r-md hover:bg-gray-900"
         >
           Pues vale
         </button>
