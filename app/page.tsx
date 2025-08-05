@@ -79,7 +79,7 @@ export default function Home() {
       
 
       <p className="text-base sm:text-lg font-normal">
-      Un mileurista, un comedoritos, un liberal y tu abuela. 
+      Un mileurista, una Charo, un comedoritos y tu abuela. 
       </p>
       <p className="text-base sm:text-lg font-normal">
       Cada día envio un email hablando de esto y <strong>te doy una estrategia para hacer que las personas sientan 
