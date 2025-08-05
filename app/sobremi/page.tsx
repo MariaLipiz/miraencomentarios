@@ -180,9 +180,6 @@ export default function Sobremi() {
 
       <SubscribeForm />
 
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        También puedes ser un Luna y dejarte domesticar.
-      </p>
     
       
     </main>
