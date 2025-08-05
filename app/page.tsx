@@ -78,28 +78,28 @@ export default function Home() {
       </h1>
       
 
-      <p className="text-base sm:text-lg font-normal">
+      <p className="text-lg sm:text-lg font-normal">
       Un mileurista, una Charo, un comedoritos y tu abuela. 
       </p>
-      <p className="text-base sm:text-lg font-normal">
+      <p className="text-lg sm:text-lg font-normal">
       Cada día envio un email hablando de esto y <strong>te doy una estrategia para hacer que las personas sientan 
-      cosas y compren lo que vendas</strong> por la que podría cobrarte. 
+      cosas y compren lo que vendas</strong>. Cada día una estrategia por la que podría cobrarte.
       </p>
       
-      <p className="text-base sm:text-lg font-normal">
+      <p className="text-lg sm:text-lg font-normal">
       No apto para huevones, ofendidos y funcionarios que quieran seguir siendolo.
       </p>
-      <p className="text-base sm:text-lg font-normal">
+      <p className="text-lg sm:text-lg font-normal">
       Te apuntas abajo, aunque si eres uno de ellos <strong>seguro que no te apuntarás.</strong>
       </p>
       
 
       <NewsletterForm />
 
-      <p className="text-base sm:text-lg font-medium">
+      <p className="text-lg sm:text-lg font-medium">
       PD: Con esto conseguirás caerle mal a tu cuñado. 
       </p>
-      <p className="text-base sm:text-lg font-medium">
+      <p className="text-lg sm:text-lg font-medium">
       PD2: Nada más apuntarte recibirás un <strong className="text-red-600">regalo</strong> en el que te cuento en 1.306 palabras lo que aprendí sobre copywriting de un chaval aburridisimo que conocí por Tinder.
       </p>
 
