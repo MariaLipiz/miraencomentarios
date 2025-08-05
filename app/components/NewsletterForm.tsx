@@ -38,7 +38,7 @@ export default function NewsletterForm() {
         <input
           type="email"
           name="email_address"
-          placeholder="Tu email menos comunista"
+          placeholder="Tu email"
           required
           className="flex-1 px-4 py-2 max-w-[200px] sm:max-w-[320px] border border-gray-400 rounded-l-md focus:outline-none"
         />

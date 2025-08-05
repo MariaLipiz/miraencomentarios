@@ -74,19 +74,19 @@ export default function Home() {
       />
     <main className="flex flex-col items-start justify-center px-6 sm:px-12 lg:px-52 py-6 gap-5">
       <h1 className="text-4xl sm:text-5xl font-bold mb-6 ">
-        Copywriting para darle envidia a tu cuñado
+        Copywriting para <strong className="text-red-600">vender como un cabrón</strong> y darle envidia a tu cuñado
       </h1>
       
 
       <p className="text-lg sm:text-lg font-normal">
-      Un mileurista, una Charo, un comedoritos y tu abuela. 
+      El que te llama de Vodafone, un vendedor de Biblias y tu cuñado que sabe de todo. 
       </p>
       <p className="text-lg sm:text-lg font-normal">
-      Cada día envio un email hablando de esto y <strong>te doy una estrategia para hacer que las personas compren lo que vendas</strong> y que usaré para venderte algo.
+      Cada día te envio un email para <strong>enseñarte a vender</strong> sin parecerte a ellos y hacer tu negocio mucho más rentable.
       </p>
       
       <p className="text-lg sm:text-lg font-normal">
-      No apto para huevones, ofendidos y funcionarios que quieran seguir siendolo.
+      No apto para huevones, ofendidos y negocios que quieran seguir matandose por cuatro clientes.
       </p>
       <p className="text-lg sm:text-lg font-normal">
       Te apuntas abajo, aunque si eres uno de ellos <strong>seguro que no te apuntarás.</strong>
@@ -95,11 +95,12 @@ export default function Home() {
 
       <NewsletterForm />
 
+      
       <p className="text-lg sm:text-lg font-medium">
-      PD: Con esto conseguirás caerle mal a tu cuñado. 
+      PD: Nada más apuntarte recibirás un <strong>regalo</strong> en el que te cuento en 960 palabras lo que aprendí sobre copywriting de un chaval aburridisimo que conocí por Tinder.
       </p>
       <p className="text-lg sm:text-lg font-medium">
-      PD2: Nada más apuntarte recibirás un <strong className="text-red-600">regalo</strong> en el que te cuento en 960 palabras lo que aprendí sobre copywriting de un chaval aburridisimo que conocí por Tinder.
+      PD2: Arriba.
       </p>
 
 

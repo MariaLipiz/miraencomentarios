@@ -38,17 +38,17 @@ export default function Bienvenido() {
         podría ganar mucho más dinero y vivir más tranquila, pero aun así seré breve.  
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Cuando tenía 22 años acababa de salir de una relación terrible muy terrible. Mi madre,
-        que es una señora muy enrrollada y sabe mucho de muchas cosas, me sugirió que me hiciese un perfil de 
-        Tinder y conociese a alguien (por tercera vez).
+        Cuando tenía 22 años acababa de salir de una relación terrible. Mi madre,
+        que es una señora que sabe mucho de muchas cosas, me sugirió que me hiciese un perfil de 
+        Tinder y conociese a alguien.
       </p>
       <p className="text-base sm:text-lg font-normal">
         Le hice caso. 
       </p>
       <p className="text-base sm:text-lg font-normal">
         Me hice un perfil bastante turbio con unas fotos mías super rancias y una 
-        descripción muy cortante para filtrar subnormales de la que te hablaré un día de estos en mis emails y gracias 
-        a la cual conocí a un chaval increible que hoy día es mi novio.
+        descripción muy cortante para filtrar subnormales de la que te hablaré un día de estos en mis emails y que 
+        hizo muy bien su trabajo.
       </p>
       <p className="text-base sm:text-lg font-normal">
         Sigo.
@@ -59,7 +59,7 @@ export default function Bienvenido() {
         podía ver a toda la gente a la que le gustaba. Todo un privilegio.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Juan era mono. Tenía los ojos muy negros, la barba cuidada, seis años más que yo y tenía cara de ser 
+        Juan era mono. Tenía los ojos muy negros, la barba cuidada y tenía cara de ser 
         esa clase de personas con las que nadie querria meterse. No por mala ostia. Tenía cara de 
         ser una persona muy asertiva.
       </p>
@@ -138,7 +138,7 @@ export default function Bienvenido() {
         Pues que eres una cabra.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        O yo, que soy más gallega que la empanada de calamares aunque todo el mundo diga que no, le diria que si le gusta follar cabras.
+        O yo, que soy más gallega que la empanada de calamares, le diria que si le gusta follar cabras.
       </p>
       <p className="text-base sm:text-lg font-normal">
         ¿Si te mola la cerveza y los libros? Pues que le gustarías a su perro.
