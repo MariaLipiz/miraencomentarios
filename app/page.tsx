@@ -83,7 +83,7 @@ export default function Home() {
       </p>
       <p className="text-lg sm:text-lg font-normal">
       Cada día envio un email hablando de esto y <strong>te doy una estrategia para hacer que las personas sientan 
-      cosas y compren lo que vendas</strong>. Cada día una estrategia por la que podría cobrarte.
+      cosas y compren lo que vendas</strong>. Cada día, en tu bandeja de entrada, una estrategia por la que podría cobrarte.
       </p>
       
       <p className="text-lg sm:text-lg font-normal">
