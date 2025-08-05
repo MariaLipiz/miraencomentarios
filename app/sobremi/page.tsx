@@ -154,10 +154,7 @@ export default function Sobremi() {
         Gilipolleces varias para que compres algo y me des tu dinero, ya sabes. Pero como te dije antes, no soy Luna, así 
         que no haré eso.
       </p>
-      <p className="text-base sm:text-lg max-w-3xl font-normal">
-        Gilipolleces varias para que compres algo y me des tu dinero, ya sabes. Pero como te dije antes, no soy Luna, así 
-        que no haré eso.
-      </p>
+      
       
       <p className="text-base sm:text-lg max-w-3xl font-normal">
        Con esta reflexión, ya te he contado lo más importante que debes saber sobre mí. A parte de eso, soy copywriter, tengo 24 años y si 
