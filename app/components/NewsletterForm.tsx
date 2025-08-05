@@ -32,7 +32,7 @@ export default function NewsletterForm() {
       onSubmit={handleSubmit}
       action="https://app.kit.com/forms/8373690/subscriptions"
       method="post"
-      className="max-w-md space-y-4"
+      className="w-full max-w-[320px] sm:max-w-[400px] space-y-4"
     >
       <div className="flex">
         <input
@@ -44,7 +44,7 @@ export default function NewsletterForm() {
         />
         <button
           type="submit"
-          className="bg-red-600 text-white px-6 py-2 rounded-r-md hover:bg-gray-900"
+          className="bg-red-600 text-sm sm:text-base text-white px-6 py-2 rounded-r-md hover:bg-gray-900"
         >
           Pues vale
         </button>
