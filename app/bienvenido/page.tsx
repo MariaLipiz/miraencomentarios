@@ -91,7 +91,7 @@ export default function Bienvenido() {
         Esa descripción me dejo el cerebro del revés y comence a pensar.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        ¿Qué me habría gustado leer sobre Juan? ¿Que tenía que haberme dicho Juan para que ni me pensase 
+        ¿Qué me habría gustado leer sobre Juan? ¿Como tendría que haberse vendido Juan para que ni me pensase 
         el darle like? 
       </p>
       <p className="text-base sm:text-lg font-normal">
@@ -138,7 +138,7 @@ export default function Bienvenido() {
         Pues que eres una cabra.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        O yo, que soy más gallega que la empanada de calamares aunque todo el mundo diga que no porque nací en la provincia de León, le diria que si le gusta follar cabras.
+        O yo, que soy más gallega que la empanada de calamares aunque todo el mundo diga que no, le diria que si le gusta follar cabras.
       </p>
       <p className="text-base sm:text-lg font-normal">
         ¿Si te mola la cerveza y los libros? Pues que le gustarías a su perro.
@@ -182,7 +182,7 @@ export default function Bienvenido() {
         Sea como sea, te contaré más cosas. Por email, claro está.
       </p>
       <p className="text-base sm:text-lg font-normal">
-        Por el momento, te pediría que dejases de poner lo comprometido que estás con tu cliente en tu página web.
+        Por el momento, te pediría que dejases de poner lo comprometido que estás con tu cliente en tu página web. Eso si quieres vender más, claro.
       </p>
       <p className="text-base sm:text-lg font-normal">
         Ya se que tus clientes son únicos y que tu negocio es especial, pero hazme el favor.

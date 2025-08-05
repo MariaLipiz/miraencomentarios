@@ -82,8 +82,7 @@ export default function Home() {
       Un mileurista, una Charo, un comedoritos y tu abuela. 
       </p>
       <p className="text-lg sm:text-lg font-normal">
-      Cada día envio un email hablando de esto y <strong>te doy una estrategia para hacer que las personas sientan 
-      cosas y compren lo que vendas</strong>. Cada día, en tu bandeja de entrada, una estrategia por la que podría cobrarte.
+      Cada día envio un email hablando de esto y <strong>te doy una estrategia para hacer que las personas compren lo que vendas</strong> y con la que te venderé algo.
       </p>
       
       <p className="text-lg sm:text-lg font-normal">
@@ -100,7 +99,7 @@ export default function Home() {
       PD: Con esto conseguirás caerle mal a tu cuñado. 
       </p>
       <p className="text-lg sm:text-lg font-medium">
-      PD2: Nada más apuntarte recibirás un <strong className="text-red-600">regalo</strong> en el que te cuento en 1.306 palabras lo que aprendí sobre copywriting de un chaval aburridisimo que conocí por Tinder.
+      PD2: Nada más apuntarte recibirás un <strong className="text-red-600">regalo</strong> en el que te cuento en 960 palabras lo que aprendí sobre copywriting de un chaval aburridisimo que conocí por Tinder.
       </p>
 
 
