@@ -47,7 +47,7 @@ export default function Servicio() {
         Copywriting para negocios sin(verguenza)
       </h1>
       <h1 className="text-3xl sm:text-4xl font-bold mb-6 text-red-600 text-center">
-        ATENCIÓN: SOLO HAY 12 PLAZAS Y EL AÑO QUE VIENE COSTARÁ <strong>9680€ </strong>
+        ATENCIÓN: SOLO QUEDAN 5 PLAZAS Y EL AÑO QUE VIENE COSTARÁ <strong>9680€ </strong>
       </h1>
       <h2 className="text-2xl sm:text-3xl font-semibold mb-6 text-center my-4">
         Este servicio es simple. Redactaré anuncios y páginas de ventas que te hagan 
@@ -55,7 +55,7 @@ export default function Servicio() {
         mejores.
       </h2>
       <p className="text-lg sm:text-xl font-semibold mb-6 text-center">
-        El copywriting es una disciplina altamente rentable y aplicable a cualquier tipo de negocio
+        El copywriting es cosa altamente rentable y aplicable a cualquier tipo de negocio
         con la que se puede hacer mucho dinero y aquí te voy a mostrar como hacer eso, aunque
         es muy probable que no vayas a ser mi cliente.
       </p>
@@ -64,7 +64,7 @@ export default function Servicio() {
       </p>
       
       <p className="text-lg sm:text-xl font-normal">
-        <strong>Este servicio no es barato</strong>, si quieres que te ayude, que redacte tus textos,
+        <strong>Esto no es barato</strong>, si quieres que te ayude, que redacte tus textos,
         tu página de ventas y tus anuncios, el precio no es para todo el mundo.
       </p>
       <p className="text-lg sm:text-xl font-normal">
@@ -82,7 +82,7 @@ export default function Servicio() {
         mismos puedan seguir aplicandolo a su negocio y a otros negocios distintos sin mi ayuda. 
       </p>
       <p className="text-lg sm:text-xl font-normal">
-        Esta es una formación de alto nivel que no puedes conseguir en ningún otro lugar.  
+        Esta es una formación que no puedes conseguir en ningún otro lugar.  
       </p>
 
       <h2 className="text-2xl sm:text-3xl font-semibold mb-6 text-center my-4">
@@ -102,7 +102,7 @@ export default function Servicio() {
       </p>
       <p className="text-lg sm:text-xl font-normal">
         Sin depender de nadie y sin necesidad de contratar a nadie más, porque es muy probable que no sepas como redactar
-        tus textos.
+        tus textos y vayas a copiar de otros las cosas equivocadas.
       </p>
       
       <p className="text-lg sm:text-xl font-normal">
@@ -110,7 +110,7 @@ export default function Servicio() {
       </p>
       
       <p className="text-lg sm:text-xl font-normal">
-        Y no es fácil. Requiere mucho esfuerzo, observación. Es de esas tareas que un mono no podría hacer, aunque con la práctica suficiente y si no eres un mono, puedes llegar 
+        No es fácil. Requiere mucho esfuerzo y observación. Es de esas tareas que un mono no podría hacer, aunque con la práctica suficiente y si no eres un mono, puedes llegar 
         a redactar textos tan buenos que harán que... 
       </p>
       <h2 className="text-2xl sm:text-3xl font-semibold mb-6 text-center my-4">
@@ -129,7 +129,7 @@ export default function Servicio() {
         Si, Tinder.
       </p>
       <p className="text-lg sm:text-xl font-normal">
-        Con veintidos años y un corazon roto, pensé en que tenía que haber alguna forma de filtrar malos candidatos que 
+        Con veintidos años, pensé en que tenía que haber alguna forma de filtrar malos candidatos que 
         me harían perder el tiempo y limitarme a hablar solo con personas afines a mí. Así que comencé a escribir descripciones
         en mi perfil y a hacer pruebas para ver cuales funcionaban y cuales no. Los resultados fueron increibles.
       </p>
@@ -142,7 +142,7 @@ export default function Servicio() {
         vendiendome a mí misma. 
       </p>
       <p className="text-lg sm:text-xl font-normal">
-        También encontré en menos de un mes un novio que no me hizo perder el tiempo.
+        Aunque creo que esto ya te lo he contado.
       </p>
       <p className="text-lg sm:text-xl font-normal">
         Y como decía antes, el regalo que reciben los que contratan mi servicio es:
@@ -155,7 +155,7 @@ export default function Servicio() {
         Vale, ¿Que precio tiene tu servicio?
       </h3>
       <p className="text-lg sm:text-xl font-medium text-red-600">
-        Atento aquí
+        Muy atento aquí
       </p>
       <p className="text-lg sm:text-xl font-normal">
         Que redacte tus anuncios, páginas de ventas y textos tiene un <strong>precio de 7260€ (IVA incluido).</strong>
@@ -166,12 +166,12 @@ export default function Servicio() {
       <p className="text-lg sm:text-xl font-normal">
         Incluye una sesión inicial de varias horas donde me contarás todos los detalles de tu negocio y tu producto o servicio (hasta el 
         último cumpleaños de tu sobrino si hace falta) y
-         que yo redacte después tu página de ventas, tus anuncios (los que quieras publicar en ese momento) y 
+         que yo redacte después tu página de ventas, tus anuncios y 
         todos los textos de tu sitio web. También, como te dije antes, al finalizar el servicio te regalo una formación
         escrita donde te explico con detalle que técnicas he utilizado y como las puedes aplicar tú.
       </p>
       <p className="text-lg sm:text-xl font-normal text-red-600">
-        <strong> Ya solo esta formación que te regalo justifica el precio, ya que si sigues todo lo que viene ahí, podrás recuperar
+        <strong> Ya solo esta formación que te regalo justifica el precio, ya que si sigues todo lo que viene ahí de manera rigurosa, podrás recuperar
         tu inversión en un plazo muy corto de tiempo.</strong>
       </p>
 
@@ -209,6 +209,9 @@ export default function Servicio() {
       <p className="text-lg sm:text-xl font-normal">
         Así que si tu negocio es honesto, tu eres honesto y vendes a humanos capaces de leer un texto, la repsuesta es que sí.
       </p>
+      <p className="text-lg sm:text-xl font-normal">
+        Menuda rima que me acaba de quedar.
+      </p>
 
       <h3 className="text-lg sm:text-xl font-bold">
         ¿Hay garantía de devolución?
@@ -221,7 +224,7 @@ export default function Servicio() {
         ¿Haces algún tipo de descuento?
       </h3>
       <p className="text-lg sm:text-xl font-normal">
-        Me encanta halloween y no hago descuentos de Navidad, ni de BlackFriday ni 
+        Este verano me disfrazaré de arbusto y no hago descuentos de Navidad, ni de BlackFriday ni 
         por Halloween cuando me disfrazo de arbusto. <strong className="text-red-600">El precio más bajo que vas a encontrar son 7260€ y
           el año que viene será más alto </strong>
       </p>
@@ -234,8 +237,8 @@ export default function Servicio() {
       </p>
       <p className="text-lg sm:text-xl font-normal">
         Lo que yo hago supone una inversión de dinero y es muy rentable si tu producto encaja con los intereses de 
-        los consumidores, pero no hago milagros ni convierto el agua en vino (para eso tu sugiero que inviertas 
-        tus 7260€ en un viaje a Fatima), por lo que si no cumples los dos 
+        los consumidores, pero todavia (todavía) no hago milagros ni convierto el agua en vino (para eso tu sugiero que inviertas 
+        tus 7260€ en un viaje a Fatima y lleves un crucifijo en la mochila por sea caso), por lo que si no cumples los dos 
         requisitos anteriores te recomiendo encarecidamente que no lo compres.
       </p>
 
