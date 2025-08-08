@@ -47,7 +47,7 @@ export default function Servicio() {
         Copywriting para negocios sin(verguenza)
       </h1>
       <h1 className="text-3xl sm:text-4xl font-bold mb-6 text-red-600 text-center">
-        ATENCIÓN: SOLO QUEDAN 5 PLAZAS Y EL AÑO QUE VIENE COSTARÁ <strong>9680€ </strong>
+        ATENCIÓN: SOLO QUEDAN 4 PLAZAS Y EL AÑO QUE VIENE COSTARÁ <strong>9680€ </strong>
       </h1>
       <h2 className="text-2xl sm:text-3xl font-semibold mb-6 text-center my-4">
         Este servicio es simple. Redactaré anuncios y páginas de ventas que te hagan 
@@ -55,7 +55,7 @@ export default function Servicio() {
         mejores.
       </h2>
       <p className="text-lg sm:text-xl font-semibold mb-6 text-center">
-        El copywriting es cosa altamente rentable y aplicable a cualquier tipo de negocio
+        El copywriting es una cosa altamente rentable y aplicable a cualquier tipo de negocio
         con la que se puede hacer mucho dinero y aquí te voy a mostrar como hacer eso, aunque
         es muy probable que no vayas a ser mi cliente.
       </p>
