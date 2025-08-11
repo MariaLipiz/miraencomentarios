@@ -42,11 +42,11 @@ export default function Home() {
   const schema = {
     "@context": "https://schema.org",
     "@type": "ProfessionalService",
-    "name": "Escribe. Liga. Vende | Copywriter",
-    "url": "https://www.escribeligavende.com",
-    "logo": "https://www.escribeligavende.com/logo.png",
-    "description": "Cada día un email para ayudarte a ligar más y mejor",
-    "email": "maria@escribeligavende.com",
+    "name": "Maria Lipiz | Copywriter",
+    "url": "https://www.miraencomentarios.com",
+    "logo": "https://www.miraencomentarios.com/logo.png",
+    "description": "Cada día un email para ayudarte a que las personas sientan cosas y compren lo que ofreces",
+    "email": "maria@miraencomentarios.com",
     "areaServed": {
       "@type": "Country",
       "name": "España"
@@ -57,7 +57,7 @@ export default function Home() {
       "offers": [
         {
           "@type": "Offer",
-          "name": "Copywriting",
+          "name": "Publicidad",
           "description": "Redacción publicitaria para negocios y empresas."
         },
       ]
@@ -74,7 +74,7 @@ export default function Home() {
       />
     <main className="flex flex-col items-start justify-center px-6 sm:px-12 lg:px-52 py-6 gap-5">
       <h1 className="text-4xl sm:text-5xl font-bold mb-6 ">
-        Copywriting para <strong className="text-red-600">vender como un cabrón</strong> y darle envidia a tu cuñado
+        <strong className="text-red-600">Vende como un cabrón</strong> y dale envidia a tu cuñado
       </h1>
       
 
@@ -97,7 +97,7 @@ export default function Home() {
 
       
       <p className="text-lg sm:text-lg font-medium">
-      PD: Nada más apuntarte recibirás un <strong>regalo</strong> en el que te cuento en 960 palabras lo que aprendí sobre copywriting de un chaval aburridisimo que conocí por Tinder.
+      PD: Nada más apuntarte recibirás un <strong>regalo</strong> en el que te cuento en 960 palabras lo que aprendí de ventas de un chaval aburridisimo que conocí por Tinder.
       </p>
       <p className="text-lg sm:text-lg font-medium">
       PD2: Arriba.
