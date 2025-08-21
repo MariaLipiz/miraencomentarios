@@ -128,7 +128,7 @@ export default function Home() {
 
       
       <p className="text-lg sm:text-lg font-normal">
-      De todo. Herramientas valiosas para tu negocio, estrategias de venta, trucos, consejos y experiencias reales para gestionar mejor tu negocio y vivir mucho 
+      De todo. Herramientas, estrategias de venta, trucos, consejos y experiencias reales para gestionar mejor tu negocio y vivir mucho 
       más tranquilo (y más libre, que es lo importante).
       </p>
       <p className="text-lg sm:text-lg font-medium">
@@ -169,12 +169,12 @@ export default function Home() {
       <ul className="list-disc list-inside space-y-3 text-base sm:text-lg font-normal">
         <li>Una valiosa lección sobre negocios que aprendí de una señora rancia</li>
         <li>Te cuento la estrategia contraintuitiva que siguió un fulano para conseguir un puesto de trabajo</li>
+        <li>El antimorbo</li>  
         <li>Dos errores que casi seguro estás cometiendo y que son muy habituales en cualquier tipo de negocio</li>
-        <li>El antimorbo</li>
         <li>Lo más importante que debes saber a la hora de vender cualquier cosa</li>
         <li>Los equipos multidisciplinares se han aliado para acabar con nosotros</li>
         <li>Porqué tu competidor el inútil gana más que tú</li>
-        <li>El antimorbo</li>        
+              
       </ul>
 
       <p className="text-lg sm:text-lg font-normal">
