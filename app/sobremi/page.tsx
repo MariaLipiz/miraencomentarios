@@ -49,7 +49,7 @@ export default function Sobremi() {
         María Lípiz
       </h1>
       <h2 className="text-2xl sm:text-3xl max-w-3xl font-semibold mb-6">
-        Copywriter. <span className="text-red-600">Persona no domesticada </span>
+        <span className="text-red-600">Persona no domesticada </span>. Me gusta ganar dinero y ayudar a los demás.
       </h2>
     </div>
       
@@ -157,7 +157,7 @@ export default function Sobremi() {
       
       
       <p className="text-base sm:text-lg max-w-3xl font-normal">
-       Con esta reflexión, ya te he contado lo más importante que debes saber sobre mí. A parte de eso, soy copywriter, tengo 24 años y si 
+       Con esta reflexión, ya te he contado lo más importante que debes saber sobre mí. A parte de eso, soy emprendedora, me gusta vender, tengo 24 años y si 
        decides no trabajar ahora conmigo porque soy joven me parece igual de bien que si decides que si, pero eso es otra historia.
       </p>
       <p className="text-base sm:text-lg max-w-3xl font-normal">

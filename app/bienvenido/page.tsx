@@ -18,7 +18,7 @@ export default function Bienvenido() {
     <main className="flex flex-col items-start justify-start px-6 sm:px-12 lg:px-52 py-12 gap-5">
       
       <h1 className="text-4xl sm:text-5xl font-bold mb-6">
-        Juan el de Tinder me enseñó una valiosa lección sobre copywriting que tú también puedes aplicar
+        Juan el de Tinder me enseñó una valiosa lección sobre ventas que tú también puedes aplicar
         para mejorar tu negocio
       </h1>
       <h2 className="text-2xl sm:text-3xl font-bold mb-6">

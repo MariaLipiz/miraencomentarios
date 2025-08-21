@@ -67,7 +67,7 @@ export default function SuccessPage() {
       </ul>
 
       <p className="text-base sm:text-lg font-normal">
-      En los dos primeros casos, mueve el email a tu bandeja de entrada.
+      En los dos primeros casos, mueve el email a tu bandeja de entrada y agrégame como contacto.
       </p>
 
       <p className="text-base sm:text-lg font-normal">
@@ -79,7 +79,7 @@ export default function SuccessPage() {
       </p>
 
       <p className="text-base sm:text-lg  font-normal">
-      Pasa un gran mediodía.
+      Pasa un fantástico mediodía.
       </p>
 
       
