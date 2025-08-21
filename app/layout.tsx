@@ -9,24 +9,26 @@ const inter = Inter({
 
 // Metadata
 export const metadata = {
-  title: 'Maria Lipiz | Copywriter',
+  title: 'Maria Lipiz | Me gusta ganar dinero y ayudar a los demás a hacerlo',
   description:
-    'Cada día un email para ayudarte a que las personas sientan cosas y compren lo que ofreces',
+    'Cada día un email para ayudarte a vender más y ser más libre',
     keywords: [
-      'Copywriting',
+      'Estrategia comercial',
+      'Estratega comercial',
+      'Consultoría comercial',
       'Copywriter',
       'Como vender por internet',
-      'Como redactar una carta de ventas',
+      'Como ganar dinero en internet',
       'Escritura persuasiva',
       'Redacción publicitaria',
-      'Newsletter diaria',
+      'Emprendimiento',
     ],
     authors: [{ name: 'Maria Lipiz', url: 'https://www.miraencomentarios.com' }],
     robots: 'index, follow',
   openGraph: {
-    title: 'Maria Lipiz | Copywriter',
+    title: 'Maria Lipiz | Me gusta ganar dinero y ayudar a los demás a hacerlo',
     description:
-      'Cada día un email para ayudarte a que las personas sientan cosas y compren lo que ofreces',
+      'Cada día un email para ayudarte a vender más y ser más libre',
     url: 'https://www.miraencomentarios.com',
     siteName: 'Maria Lipiz Copywriter',
     images: [
@@ -34,7 +36,7 @@ export const metadata = {
         url: 'https://miraencomentarios.com/og-image.jpg',
         width: 1200,
         height: 630,
-        alt: 'Maria Lipiz | Copywriter',
+        alt: 'Maria Lipiz | Me gusta ganar dinero y ayudar a los demás a hacerlo',
       },
     ],
     locale: 'es_ES',

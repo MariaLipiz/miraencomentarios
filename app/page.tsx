@@ -2,23 +2,27 @@ import NewsletterForm from '@/components/NewsletterForm';
 import Script from 'next/script'
 
 export const metadata = {
-  title: 'Maria Lipiz | Copywriter',
+  title: 'Maria Lipiz | Me gusta ganar dinero y ayudar a los demás a hacerlo',
   description:
-    'Cada día un email para ayudarte a que las personas sientan cosas y compren lo que ofreces',
+    'Cada día un email para ayudarte a vender más y ser más libre',
     keywords: [
-      'Copywriting',
+      'Estrategia comercial',
+      'Estratega comercial',
+      'Consultoría comercial',
+      'Consultoría de marketing',
       'Copywriter',
       'Como vender por internet',
-      'Como redactar una página de ventas',
+      'Como ganar dinero en internet',
       'Escritura persuasiva',
       'Redacción publicitaria',
+      'Emprendimiento',
     ],
     authors: [{ name: 'Maria Lipiz', url: 'https://www.miraencomentarios.com' }],
     robots: 'index, follow',
   openGraph: {
-    title: 'Maria Lipiz | Copywriter',
+    title: 'Maria Lipiz | Me gusta ganar dinero y ayudar a los demás a hacerlo',
     description:
-      'Cada día un email para ayudarte a que las personas sientan cosas y compren lo que ofreces',
+      'Cada día un email para ayudarte a vender más y ser más libre',
     url: 'https://www.miraencomentarios.com',
     siteName: 'Maria Lipiz Copywriter',
     images: [
@@ -26,14 +30,17 @@ export const metadata = {
         url: 'https://miraencomentarios.com/og-image.jpg',
         width: 1200,
         height: 630,
-        alt: 'Maria Lipiz | Copywriter',
+        alt: 'Maria Lipiz | Me gusta ganar dinero y ayudar a los demás a hacerlo',
       },
     ],
     locale: 'es_ES',
     type: 'website',
   },
   icons: {
-    icon: '/favicon.svg',
+    icon: [
+    { url: '/favicon.ico' },                      // clásico
+    { url: '/favicon.svg', type: 'image/svg+xml' } // vectorial
+  ],
     apple: '/apple-icon.png',
   },
 }
@@ -42,10 +49,10 @@ export default function Home() {
   const schema = {
     "@context": "https://schema.org",
     "@type": "ProfessionalService",
-    "name": "Maria Lipiz | Copywriter",
+    "name": "Maria Lipiz | Me gusta ganar dinero y ayudar a los demás a hacerlo",
     "url": "https://www.miraencomentarios.com",
     "logo": "https://www.miraencomentarios.com/logo.png",
-    "description": "Cada día un email para ayudarte a que las personas sientan cosas y compren lo que ofreces",
+    "description": "Cada día un email para ayudarte a vender más y ser más libre",
     "email": "maria@miraencomentarios.com",
     "areaServed": {
       "@type": "Country",
@@ -57,8 +64,8 @@ export default function Home() {
       "offers": [
         {
           "@type": "Offer",
-          "name": "Publicidad",
-          "description": "Redacción publicitaria para negocios y empresas."
+          "name": "Estrategia comercial",
+          "description": "Estudio tu negocio, tu mercado y tu proceso de ventar y elaboro estrategias para simplificar tu negocio y facturar más."
         },
       ]
     }
