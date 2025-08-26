@@ -84,10 +84,6 @@ export default function Home() {
       Si tienes tu propio negocio o quieres tenerlo y te sientes perdido <strong className="text-red-600">sigue leyendo</strong> 
       </h1>
       
-
-      <p className="text-lg sm:text-lg font-normal">
-      Mira. 
-      </p>
       <p className="text-lg sm:text-lg font-normal">
       Dicen por ahí que emprender te hará libre y que ganarás mucho dinero. Todo muy bonito.
       </p>
