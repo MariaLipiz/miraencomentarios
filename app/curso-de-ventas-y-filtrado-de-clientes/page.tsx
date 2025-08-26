@@ -3,9 +3,9 @@ import Script from 'next/script'
 import ConvertkitButton from "@/components/BotonCurso";
 
 export const metadata = {
-  title: 'Maria Lipiz | Me gusta ganar dinero y ayudar a los demás a hacerlo',
+  title: 'Curso de ventas y filtrado de clientes',
   description:
-    'Cada día un email para ayudarte a vender más y ser más libre',
+    'Esta formación trata sobre como cerrar más ventas con personas interesadas en lo que sea que vendas y filtrar clientes que no te llevarán a ningún sitio',
     keywords: [
       'Estrategia comercial',
       'Estratega comercial',
@@ -16,14 +16,14 @@ export const metadata = {
       'Como ganar dinero en internet',
       'Escritura persuasiva',
       'Redacción publicitaria',
-      'Emprendimiento',
+      'Curso de ventas para negocios',
     ],
     authors: [{ name: 'Maria Lipiz', url: 'https://www.miraencomentarios.com' }],
     robots: 'index, follow',
   openGraph: {
-    title: 'Maria Lipiz | Me gusta ganar dinero y ayudar a los demás a hacerlo',
+    title: 'Curso de ventas y filtrado de clientes',
     description:
-      'Cada día un email para ayudarte a vender más y ser más libre',
+      'Esta formación trata sobre como cerrar más ventas con personas interesadas en lo que sea que vendas y filtrar clientes que no te llevarán a ningún sitio',
     url: 'https://www.miraencomentarios.com',
     siteName: 'Maria Lipiz Copywriter',
     images: [
@@ -31,7 +31,7 @@ export const metadata = {
         url: 'https://miraencomentarios.com/og-image.jpg',
         width: 1200,
         height: 630,
-        alt: 'Maria Lipiz | Me gusta ganar dinero y ayudar a los demás a hacerlo',
+        alt: 'Curso de ventas y filtrado de clientes',
       },
     ],
     locale: 'es_ES',
@@ -50,10 +50,10 @@ export default function Home() {
   const schema = {
     "@context": "https://schema.org",
     "@type": "ProfessionalService",
-    "name": "Maria Lipiz | Me gusta ganar dinero y ayudar a los demás a hacerlo",
+    "name": "Curso de ventas y filtrado de clientes",
     "url": "https://www.miraencomentarios.com",
     "logo": "https://www.miraencomentarios.com/logo.png",
-    "description": "Cada día un email para ayudarte a vender más y ser más libre",
+    "description": "Esta formación trata sobre como cerrar más ventas con personas interesadas en lo que sea que vendas y filtrar clientes que no te llevarán a ningún sitio",
     "email": "maria@miraencomentarios.com",
     "areaServed": {
       "@type": "Country",
@@ -91,7 +91,8 @@ export default function Home() {
       
 
       <h2 className="text-2xl sm:text-3xl font-bold my-2 ">
-      Esta formación trata sobre como cerrar más ventas con personas interesadas en lo que sea que vendas y filtrar clientes que no te llevarán a ningún sitio.
+      Esta formación trata sobre como cerrar más ventas con personas interesadas en lo que sea que vendas y 
+      filtrar clientes que no te llevarán a ningún sitio (bueno).
       </h2>
       
     
