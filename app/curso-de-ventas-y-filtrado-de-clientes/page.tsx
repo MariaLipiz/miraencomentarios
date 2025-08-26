@@ -1,4 +1,4 @@
-import NewsletterForm from '@/components/NewsletterForm';
+
 import Script from 'next/script'
 import ConvertkitButton from "@/components/BotonCurso";
 
@@ -105,7 +105,7 @@ export default function Home() {
       <ul className="list-disc list-inside space-y-6 text-base sm:text-lg font-normal mb-6">
         <li>El motivo por el que nunca debes justificar el precio </li>
         <li>8 señales de que la persona que tienes delante será un futuro cliente problematico</li>
-        <li>La extraña razón por la cual nunca debes responder preguntar como "¿Cuantos años tienes?" o "¿Para que clientes has trabajado?"</li>  
+        <li>La extraña razón por la cual nunca debes responder preguntar como ¿Cuantos años tienes? o ¿Para que clientes has trabajado?</li>  
         <li>Un error que casi seguro estás cometiendo a la hora de cerrar una venta y que está haciendo que factures menos</li>
         <li>El motivo por el cual nunca debes usar ChatGPT en nada relacionado con tu proceso de venta</li>
         <li>10 frases que, si las dices, hará que tu cliente tengas ganas de salir corriendo (casi seguro las estas utilizando)</li>
