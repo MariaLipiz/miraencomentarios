@@ -187,9 +187,6 @@ export default function Bienvenido() {
       <p className="text-base sm:text-lg font-normal">
         Ya se que tus clientes son únicos y que tu negocio es especial, pero hazme el favor.
       </p>
-      <p className="text-base sm:text-lg font-normal">
-        Pasa un fantástico mediodía.
-      </p>
     </main>
   );
 }
