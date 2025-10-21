@@ -81,61 +81,91 @@ export default function Home() {
       />
     <main className="flex flex-col items-start justify-center px-6 sm:px-12 lg:px-52 py-6 gap-5">
       <h1 className="text-4xl sm:text-5xl font-bold mb-6 ">
-      Si tienes tu propio negocio o quieres tenerlo y te sientes perdido <strong className="text-red-600">sigue leyendo</strong> 
+      Ni métricas. Ni IA. Ni el sistema revolucionario de solo 5 pasos que encontrarás en este webinar.
       </h1>
       
       <p className="text-lg sm:text-lg font-normal">
-      Dicen por ahí que emprender te hará libre y que ganarás mucho dinero. Todo muy bonito.
+      No voy a decirte que te han engañado como travesti paraguayo ni que yo vengo a revelarte la verdad absoluta. Porque te estaría engañando.
       </p>
       
       <p className="text-lg sm:text-lg font-normal">
-      Pero la realidad no siempre es así.
+      Pero si que te puedo decir una cosa. 
       </p>
       <p className="text-lg sm:text-lg font-normal">
-      Ser autonomo o empresario también es sentirse solo. No tener ni idea de por donde empezar. No saber a quién pedir ayuda.
+      El éxito en los negocios no pasa por gastarte 3000€ en una automatización para aumentar en un 0,0001% tus beneficios. No tiene mucho sentido y es muy posible que estés de acuerdo conmigo.
       </p>
       <p className="text-lg sm:text-lg font-normal">
-      Te sientes incomprendido. No es algo que entienda todo el mundo. 
+      Ahora bien, te he hablado de lo que no hace falta para hacer que tu negocio vaya bien y puedas cerrarle la boca a tu familia con lo de “no emprendas que es muy arriesgado”.
       </p>
       <p className="text-lg sm:text-lg font-normal">
-      Tu pareja te sugiere que busques un trabajo. 
+      Hablemos de lo que si hace falta. 
       </p>
       <p className="text-lg sm:text-lg font-normal">
-      Tu familia te pregunta preocupada cada vez que sale el tema.
-      </p>
-      <p className="text-lg sm:text-lg font-normal">
-      Tus amigos te mirán raro cuando les hablas de emprender, hablan de la estabilidad de un curro fijo y pasan del asunto.
-      </p>
-      <p className="text-lg sm:text-lg font-semibold">
-      Por eso cada día envio un cosejo valioso solo apto para personas que quieren entender:
+      Esto es casi de sentido común, aunque es probable que de tan sencillo que parece no me creas.
       </p>
     
-      <ul className="list-disc list-inside space-y-1 text-base sm:text-lg font-normal">
-        <li>Que tener un salario fijo no tiene ningun sentido.</li>
-        <li>Que alcanzar la libertad es fundamental.</li>
-        <li>Que levantar un negocio se basa en realizar las acciones más sencillas y eliminar todo lo demás.</li>
+      <ul className="list-disc list-inside space-y-6 text-base sm:text-lg font-normal">
+        <li>Tu negocio, tus normas. Saber poner coto a clientes tocapelotas es de primero de emorendimiento. Al igual que no dejarías entrar a cualquiera a tu casa, pues con tu negocio lo mismo. No querrás ser la putita de tu sector y comerte toda la morralla, aunque solo sea por una cuestión de orgullo.</li>
+        <li>Imitar a la competencia y hacer lo mismo que hacen ellos es como el ciego que sigue a otro ciego. El resto de la historia te la puedes imaginar. </li>
+        <li>La complejidad es enemiga del buen funcionamiento. Esto es algo que muchas personas no entienden y probablemente nunca entenderán, en especial los marketeros aficionados a hacer embudos de 80 pasos.</li>
         
       </ul>
 
       <p className="text-lg sm:text-lg font-normal">
-      Si tú eres de esos te apuntas abajo. Es gratis.
+      Entiendo que si sigues aquí y no estás pensando que tengo algún tipo de deficit intelectual, estarás de acuerdo conmigo. 
       </p>
 
-      
+      <p className="text-lg sm:text-lg font-normal">
+      Y también estarás de acuerdo conmigo en que dominar y aplicar estos tres puntos, salvo que hayas nacido siendo el Superman de los negocios, tampoco es sencillo. 
+      </p>
+
+      <p className="text-lg sm:text-lg font-normal">
+      Bien.
+      </p>
+
+      <p className="text-lg sm:text-lg font-normal">
+      Ahora puedes hacer dos cosas:
+      </p>
+
+      <p className="text-lg sm:text-lg font-normal">
+      La primera. Cerrar esta pestaña y si te he visto no me acuerdo. Yo ni me enteraré y esto quedará entre Dios, Google y tú. 
+      </p>
+
+      <p className="text-lg sm:text-lg font-normal">
+      La segunda. Dejarme tu email abajo, y ningún dato más, mi intención no es hacer que parezcamos amigos.  
+      </p>
+
+      <p className="text-lg sm:text-lg font-normal">
+      En este caso, cada día te freiré a correos con un consejo diario.
+      </p>
+
+      <p className="text-lg sm:text-lg font-normal">
+      Así hasta que me odies, 
+      o me ames, o me insultes o te desuscribas o quieras acampar en el portal de mi casa. 
+      </p>
+
+      <p className="text-lg sm:text-lg font-normal">
+      Eso ya lo dejo a tu elección.
+      </p>
+
+      <p className="text-lg sm:text-lg font-normal">
+      Te apuntas aquí abajo. Es gratis y desapuntarse también es gratis.
+      </p>
 
       <NewsletterForm />
 
       <h2 className="text-2xl sm:text-3xl font-bold my-6 ">
-      ¿Que recibirás si te apuntas?
+      Esto no va de “mejorar los textos de tu web”
       </h2>
 
       
       <p className="text-lg sm:text-lg font-normal">
-      De todo. Herramientas, estrategias de venta, trucos, consejos y experiencias reales para gestionar mejor tu negocio y vivir mucho 
-      más tranquilo (y más libre, que es lo importante).
+      Que si, que mejorar los textos de tu web es importante y no poner lo multidisciplinar que es tu equipo también, 
+      hablaremos de esto. Pero y qué, ¿A quién le importa esto? ¿A tu cuñado? Ya te digo yo que no. 
       </p>
-      <p className="text-lg sm:text-lg font-medium">
-      Aquí abajo apuntas tu correo. Si no te apuntas hoy, te perderás el consejo de mañana.
+      <p className="text-lg sm:text-lg font-normal">
+      Esto va de hacer las cosas con criterio y con sentido común (que como todos sabemos, es el menos común de los sentidos), y sobre todo, 
+      de no ser un huevon o huevona o huevone. Lo digo por si hay algún indigente mental en los alrededores. 
       </p>
 
       <NewsletterForm />
@@ -143,45 +173,73 @@ export default function Home() {
       
 
       <h2 className="text-2xl sm:text-3xl font-bold my-6 ">
-      ¿Por qué debería apuntarme?
+      Escribo para gente con dos dedos de frente
       </h2>
       <p className="text-lg sm:text-lg font-normal">
-      Eso solo lo puedes decidir tú, aunque si lo tuyo es:
+      Por eso no te regalaré ningún PDF con -El consejo definitivo que aprendi de un camello nigeriano durante mi erasmus en un gulaj ruso en 
+      Siberia sobre ventas, negocios y copywriting- ni nada parecido. 
       </p>
+
+      <p className="text-lg sm:text-lg font-normal">
+      Doy por hecho que eres un adulto funcional y que no necesitas un refuerzo positivo para hacer algo que puede ser 
+      bueno para tu negocio y para ti. 
+      </p>
+
+      <p className="text-lg sm:text-lg font-normal">
+      Si es que esto se parece a algo bueno para tu negocio, claro. Yo creo que si, porque soy parte interesada y me va bien. Tu puedes pensar lo que quieras.
+      </p>
+
+      <p className="text-lg sm:text-lg font-normal">
+      También te ahorraré gilipolleces como “pon aquí tu email menos comunista”. Ya somos mayorcitos y si quieres poner uno, pues pones el que quieras. 
+      </p>
+
+      <NewsletterForm />
+
+
+      <h2 className="text-2xl sm:text-3xl font-bold my-6 ">
+      Me gusta ganar dinero para ser libre y hacérselo ganar a los demás. Para que sean libres también, ya sabes
+      </h2>
+
+      <p className="text-lg sm:text-lg font-normal">
+      Y para que nunca nadie tenga que pasar por una situación de necesidad ni nada parecido como pasé yo de pequeña.
+      </p>
+
+      <p className="text-lg sm:text-lg font-normal">
+      Y hasta aquí los sentimentalismos.
+      </p>
+
+      <p className="text-lg sm:text-lg font-normal">
+      Por eso te aviso de que cada día te intentaré vender algo. Porque somos humanos, y antes que humanos somos comerciantes y toda esa película. Ya somos 
+      mayores para entender esto.
+      </p>
+
+      <p className="text-lg sm:text-lg font-normal">
+      Igualmente, aunque no compres nada, es muy probable que te lleves algo de valor, como por ejemplo, una estrategia infalible para evitar 
+      cosas como el “Me lo tengo que pensar”. 
+      </p>
+
+      <p className="text-lg sm:text-lg font-normal">
+      Por poner un ejemplo. Repito. 
+      </p>
+
+      <h2 className="text-2xl sm:text-3xl font-bold my-6 ">
+      Y aquí… algunos asuntos anteriores. 
+      </h2>
+
       <ul className="list-disc list-inside space-y-3 text-base sm:text-lg font-normal">
-        <li>Ser una persona con mentalidad de funcionario sin intención de mejorar</li>
-        <li>Vender humo a tus clientes</li>
-        <li>Pasarte el día quejandote por redes de lo dura que es la vida e insultar a quién gana más que tú</li>      
-      </ul>
-
-      <p className="text-lg sm:text-lg font-normal">
-      Te sugiero que no te apuntes.
-      </p>
-
-      <p className="text-lg sm:text-lg font-normal">
-      En caso contrario, metes abajo tu email.
-      </p>
-      <NewsletterForm />
-
-      <h2 className="text-2xl sm:text-3xl font-bold my-6 ">
-      Algunos asuntos recientes.
-      </h2>
-      <p className="text-lg sm:text-lg font-normal">
-      Esto son titulos de algunos de los últimos emails que he enviado:
-      </p>
-      <ul className="list-disc list-inside space-y-3 text-base sm:text-lg font-normal">
-        <li>Una valiosa lección sobre negocios que aprendí de una señora rancia</li>
-        <li>Te cuento la estrategia contraintuitiva que siguió un fulano para conseguir un puesto de trabajo</li>
-        <li>El antimorbo</li>  
+        <li>El extraño uso que hace la gente de esta cosa que casi seguro conoces</li>
+        <li>Consejo de sentido común, que como se dice, es el menos común de los sentidos</li>
+        <li>Este correo ha quedado fatal y por eso no debes leerlo</li>  
         <li>Dos errores que casi seguro estás cometiendo y que son muy habituales en cualquier tipo de negocio</li>
-        <li>Lo más importante que debes saber a la hora de vender cualquier cosa</li>
-        <li>Los equipos multidisciplinares se han aliado para acabar con nosotros</li>
+        <li>Si lees con atención, esta reflexión personal te abrirá los ojos y te llevará un pasito mas lejos</li>
+        <li>Vender es importante, esto que te cuento aquí lo es más</li>
+        <li>Una llamada marciana que todo emprendedor ha recibido y que cambió el rumbo de mi negocio</li>
         <li>Porqué tu competidor el inútil gana más que tú</li>
               
       </ul>
 
       <p className="text-lg sm:text-lg font-normal">
-      Si no quieres perderte los siguientes, te apuntas abajo.
+      Como dice el gran Luis Monge, dia que estás fuera, consejo que te pierdes.
       </p>
 
       <NewsletterForm />
