@@ -219,7 +219,7 @@ export default function Home() {
       </p>
 
       <p className="text-lg sm:text-lg font-normal">
-      Por poner un ejemplo. Repito. 
+      Por poner un ejemplo. Repito. Aunque si lo que lees no hace que te entren ganas de sacar la tarjeta, pues mejor te desuscribes y listo.
       </p>
 
       <h2 className="text-2xl sm:text-3xl font-bold my-6 ">

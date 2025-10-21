@@ -16,7 +16,7 @@ Empresa:             MARIA LIPIZ FERNANDEZ
 
 NIF:                       44435285K
 
-Dirección:            AV DE BETANZOS, 54 1º 
+Dirección:            AV DE BETANZOS
 
 Localidad:           28029-MADRID
 
