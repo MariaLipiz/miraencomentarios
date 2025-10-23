@@ -45,7 +45,7 @@ export const metadata = {
   
         {/* PREGUNTAS DE CALIFICACIÓN */}
         <p>
-          Ahora bien, ¿Tus precios son los de un negocio y un servicio excepcional? ¿O son “precios de mercado”? Es decir, ¿Paco el de la competencia cobra 2000€ y tú cobras 4000€ por hacer lo mismo?
+          Ahora bien, ¿Tus precios son los de un negocio y un servicio excepcional? ¿O son “precios de mercado”? Traducido al cristiano, ¿Paco el de la competencia cobra 2000€ y tú cobras 4000€ por hacer lo mismo?
         </p>
         <p>
           ¿Tienes una cola de clientes (real o metafórica) dando la vuelta a la manzana esperando para contratarte?
@@ -359,7 +359,7 @@ export const metadata = {
         </p>
 
         <ContactForm className="mt-2" />
-        
+
         <p>Un super abrazote y a seguir viviendo.</p>
         <p className="font-semibold">María Lípiz.</p>
 
