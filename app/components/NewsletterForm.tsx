@@ -32,7 +32,7 @@ export default function NewsletterForm() {
       onSubmit={handleSubmit}
       action="https://app.kit.com/forms/8373690/subscriptions"
       method="post"
-      className="w-full max-w-[320px] sm:max-w-[400px] space-y-4"
+      className="w-full max-w-[320px] sm:max-w-[500px] space-y-4"
     >
       <div className="flex">
         <input

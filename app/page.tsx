@@ -79,76 +79,76 @@ export default function Home() {
         strategy="afterInteractive"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
       />
-    <main className="flex flex-col items-start justify-center px-6 sm:px-12 lg:px-52 py-6 gap-5">
+    <main className="flex flex-col items-start justify-start px-6 sm:px-12 lg:px-52 py-12 gap-12 text-base sm:text-xl lg:text-2xl font-light">
       <h1 className="text-4xl sm:text-5xl font-bold mb-6 ">
       Ni métricas. Ni IA. Ni el sistema revolucionario de solo 5 pasos que encontrarás en este webinar.
       </h1>
       
-      <p className="text-lg sm:text-lg font-normal">
+      <p >
       No voy a decirte que te han engañado como travesti paraguayo ni que yo vengo a revelarte la verdad absoluta. Porque te estaría engañando.
       </p>
       
-      <p className="text-lg sm:text-lg font-normal">
+      <p >
       Pero si que te puedo decir una cosa. 
       </p>
-      <p className="text-lg sm:text-lg font-normal">
+      <p >
       El éxito en los negocios no pasa por gastarte 3000€ en una automatización para aumentar en un 0,0001% tus beneficios. No tiene mucho sentido y es muy posible que estés de acuerdo conmigo.
       </p>
-      <p className="text-lg sm:text-lg font-normal">
+      <p >
       Ahora bien, te he hablado de lo que no hace falta para hacer que tu negocio vaya bien y puedas cerrarle la boca a tu familia con lo de “no emprendas que es muy arriesgado”.
       </p>
-      <p className="text-lg sm:text-lg font-normal">
+      <p >
       Hablemos de lo que si hace falta. 
       </p>
-      <p className="text-lg sm:text-lg font-normal">
+      <p >
       Esto es casi de sentido común, aunque es probable que de tan sencillo que parece no me creas.
       </p>
     
-      <ul className="list-disc list-inside space-y-6 text-base sm:text-lg font-normal">
+      <ul className="list-disc list-inside space-y-6">
         <li>Tu negocio, tus normas. Saber poner coto a clientes tocapelotas es de primero de emorendimiento. Al igual que no dejarías entrar a cualquiera a tu casa, pues con tu negocio lo mismo. No querrás ser la putita de tu sector y comerte toda la morralla, aunque solo sea por una cuestión de orgullo.</li>
         <li>Imitar a la competencia y hacer lo mismo que hacen ellos es como el ciego que sigue a otro ciego. El resto de la historia te la puedes imaginar. </li>
         <li>La complejidad es enemiga del buen funcionamiento. Esto es algo que muchas personas no entienden y probablemente nunca entenderán, en especial los marketeros aficionados a hacer embudos de 80 pasos.</li>
         
       </ul>
 
-      <p className="text-lg sm:text-lg font-normal">
+      <p >
       Entiendo que si sigues aquí y no estás pensando que tengo algún tipo de deficit intelectual, estarás de acuerdo conmigo. 
       </p>
 
-      <p className="text-lg sm:text-lg font-normal">
+      <p >
       Y también estarás de acuerdo conmigo en que dominar y aplicar estos tres puntos, salvo que hayas nacido siendo el Superman de los negocios, tampoco es sencillo. 
       </p>
 
-      <p className="text-lg sm:text-lg font-normal">
+      <p >
       Bien.
       </p>
 
-      <p className="text-lg sm:text-lg font-normal">
+      <p >
       Ahora puedes hacer dos cosas:
       </p>
 
-      <p className="text-lg sm:text-lg font-normal">
+      <p >
       La primera. Cerrar esta pestaña y si te he visto no me acuerdo. Yo ni me enteraré y esto quedará entre Dios, Google y tú. 
       </p>
 
-      <p className="text-lg sm:text-lg font-normal">
+      <p >
       La segunda. Dejarme tu email abajo, y ningún dato más, mi intención no es hacer que parezcamos amigos.  
       </p>
 
-      <p className="text-lg sm:text-lg font-normal">
+      <p >
       En este caso, cada día te freiré a correos con un consejo diario.
       </p>
 
-      <p className="text-lg sm:text-lg font-normal">
+      <p >
       Así hasta que me odies, 
       o me ames, o me insultes o te desuscribas o quieras acampar en el portal de mi casa. 
       </p>
 
-      <p className="text-lg sm:text-lg font-normal">
+      <p >
       Eso ya lo dejo a tu elección.
       </p>
 
-      <p className="text-lg sm:text-lg font-normal">
+      <p >
       Te apuntas aquí abajo. Es gratis y desapuntarse también es gratis.
       </p>
 
@@ -159,11 +159,11 @@ export default function Home() {
       </h2>
 
       
-      <p className="text-lg sm:text-lg font-normal">
+      <p >
       Que si, que mejorar los textos de tu web es importante y no poner lo multidisciplinar que es tu equipo también, 
       hablaremos de esto. Pero y qué, ¿A quién le importa esto? ¿A tu cuñado? Ya te digo yo que no. 
       </p>
-      <p className="text-lg sm:text-lg font-normal">
+      <p >
       Esto va de hacer las cosas con criterio y con sentido común (que como todos sabemos, es el menos común de los sentidos), y sobre todo, 
       de no ser un huevon o huevona o huevone. Lo digo por si hay algún indigente mental en los alrededores. 
       </p>
@@ -175,21 +175,21 @@ export default function Home() {
       <h2 className="text-2xl sm:text-3xl font-bold my-6 ">
       Escribo para gente con dos dedos de frente
       </h2>
-      <p className="text-lg sm:text-lg font-normal">
+      <p >
       Por eso no te regalaré ningún PDF con -El consejo definitivo que aprendi de un camello nigeriano durante mi erasmus en un gulaj ruso en 
       Siberia sobre ventas, negocios y copywriting- ni nada parecido. 
       </p>
 
-      <p className="text-lg sm:text-lg font-normal">
+      <p >
       Doy por hecho que eres un adulto funcional y que no necesitas un refuerzo positivo para hacer algo que puede ser 
       bueno para tu negocio y para ti. 
       </p>
 
-      <p className="text-lg sm:text-lg font-normal">
+      <p >
       Si es que esto se parece a algo bueno para tu negocio, claro. Yo creo que si, porque soy parte interesada y me va bien. Tu puedes pensar lo que quieras.
       </p>
 
-      <p className="text-lg sm:text-lg font-normal">
+      <p >
       También te ahorraré gilipolleces como “pon aquí tu email menos comunista”. Ya somos mayorcitos y si quieres poner uno, pues pones el que quieras. 
       </p>
 
@@ -200,33 +200,35 @@ export default function Home() {
       Me gusta ganar dinero para ser libre y hacérselo ganar a los demás. Para que sean libres también, ya sabes
       </h2>
 
-      <p className="text-lg sm:text-lg font-normal">
+      <p >
       Y para que nunca nadie tenga que pasar por una situación de necesidad ni nada parecido como pasé yo de pequeña.
       </p>
 
-      <p className="text-lg sm:text-lg font-normal">
+      <p >
       Y hasta aquí los sentimentalismos.
       </p>
 
-      <p className="text-lg sm:text-lg font-normal">
+      <p >
       Por eso te aviso de que cada día te intentaré vender algo. Porque somos humanos, y antes que humanos somos comerciantes y toda esa película. Ya somos 
       mayores para entender esto.
       </p>
 
-      <p className="text-lg sm:text-lg font-normal">
+      <p >
       Igualmente, aunque no compres nada, es muy probable que te lleves algo de valor, como por ejemplo, una estrategia infalible para evitar 
       cosas como el “Me lo tengo que pensar”. 
       </p>
 
-      <p className="text-lg sm:text-lg font-normal">
+      <p >
       Por poner un ejemplo. Repito. Aunque si lo que lees no hace que te entren ganas de sacar la tarjeta, pues mejor te desuscribes y listo.
       </p>
+
+      <NewsletterForm />
 
       <h2 className="text-2xl sm:text-3xl font-bold my-6 ">
       Y aquí… algunos asuntos anteriores. 
       </h2>
 
-      <ul className="list-disc list-inside space-y-3 text-base sm:text-lg font-normal">
+      <ul className="list-disc list-inside space-y-6">
         <li>El extraño uso que hace la gente de esta cosa que casi seguro conoces</li>
         <li>Consejo de sentido común, que como se dice, es el menos común de los sentidos</li>
         <li>Este correo ha quedado fatal y por eso no debes leerlo</li>  
@@ -238,7 +240,7 @@ export default function Home() {
               
       </ul>
 
-      <p className="text-lg sm:text-lg font-normal">
+      <p >
       Como dice el gran Luis Monge, dia que estás fuera, consejo que te pierdes.
       </p>
 

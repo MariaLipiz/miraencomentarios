@@ -4,7 +4,7 @@ import Footer from '@/components/Footer';
 
 const inter = Inter({
   subsets: ['latin'],
-  weight: ['400', '500', '600', '700'], // Regular, Medium, SemiBold, Bold
+  weight: ['300', '400', '500', '600', '700'], // Regular, Medium, SemiBold, Bold
 });
 
 // Metadata

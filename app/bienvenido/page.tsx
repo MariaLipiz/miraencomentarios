@@ -15,7 +15,7 @@ export const metadata = {
 }
 export default function Bienvenido() {
   return (
-    <main className="flex flex-col items-start justify-start px-6 sm:px-12 lg:px-52 py-12 gap-5">
+    <main className="flex flex-col items-start justify-start px-6 sm:px-12 lg:px-52 py-12 gap-12 text-base sm:text-xl lg:text-2xl font-light">
       
       <h1 className="text-4xl sm:text-5xl font-bold mb-6">
         Juan el de Tinder me enseñó una valiosa lección sobre ventas que tú también puedes aplicar
@@ -24,152 +24,152 @@ export default function Bienvenido() {
       <h2 className="text-2xl sm:text-3xl font-bold mb-6">
         Aunque <strong className="text-red-600">seguro que no lo aplicarás</strong> porque tu negocio es único y especial y a tus clientes no les gustaría.
       </h2>
-      <p className="text-base sm:text-lg font-normal">
+      <p>
         Mira.
       </p>
-      <p className="text-base sm:text-lg font-normal">
+      <p>
         Hace poco una buena amiga mía me dijo que la gente no lee las páginas de ventas,
         ni los emails, ni este tipo de regalos que se hacen a desconocidos cuando realizan una 
         acción concreta que tu quieres que hagan.
       </p>
-      <p className="text-base sm:text-lg font-normal">
+      <p>
         Yo no creo que mi amiga tenga razón y de hecho, estoy convencida de que está 
         equivocada y que si cambiase esa mentalidad de mierda
         podría ganar mucho más dinero y vivir más tranquila, pero aun así seré breve.  
       </p>
-      <p className="text-base sm:text-lg font-normal">
+      <p>
         Cuando tenía 22 años acababa de salir de una relación terrible. Mi madre,
         que es una señora que sabe mucho de muchas cosas, me sugirió que me hiciese un perfil de 
         Tinder y conociese a alguien.
       </p>
-      <p className="text-base sm:text-lg font-normal">
+      <p>
         Le hice caso. 
       </p>
-      <p className="text-base sm:text-lg font-normal">
+      <p>
         Me hice un perfil bastante turbio con unas fotos mías super rancias y una 
         descripción muy cortante para filtrar subnormales de la que te hablaré un día de estos en mis emails y que 
         hizo muy bien su trabajo.
       </p>
-      <p className="text-base sm:text-lg font-normal">
+      <p>
         Sigo.
       </p>
-      <p className="text-base sm:text-lg font-normal">
+      <p>
         Coincidí con Juan. Juan me habia dado like unos días atras, y como pagaba el premium 
         porque ya de meterme me metía bien pues 
         podía ver a toda la gente a la que le gustaba. Todo un privilegio.
       </p>
-      <p className="text-base sm:text-lg font-normal">
+      <p>
         Juan era mono. Tenía los ojos muy negros, la barba cuidada y tenía cara de ser 
         esa clase de personas con las que nadie querria meterse. No por mala ostia. Tenía cara de 
         ser una persona muy asertiva.
       </p>
-      <p className="text-base sm:text-lg font-normal">
+      <p>
         Buen comienzo parece.
       </p>
-      <p className="text-base sm:text-lg font-normal">
+      <p>
         Deslicé para leer su descripción. 
       </p>
-      <p className="text-sm sm:text-base font-normal italic">
+      <p className="italic">
         Juan 
       </p>
-      <p className="text-sm sm:text-base font-normal italic">
+      <p className="italic">
         28 años
       </p>
-      <p className="text-sm sm:text-base font-normal italic">
+      <p className="italic">
         1,81m
       </p>
-      <p className="text-sm sm:text-base font-normal italic">
+      <p className="italic">
         Leer, ir a la montaña y salir de cervezas. 
       </p>
-      <p className="text-sm sm:text-base font-normal italic">
+      <p className="italic">
         Tengo perro.
       </p>
-      <p className="text-base sm:text-lg font-normal">
+      <p>
         Su perfil era un coñazo. Lo siento por ti Juan, pero no voy a hacer match con una piedra.
       </p>
-      <p className="text-base sm:text-lg font-normal">
+      <p>
         Esa descripción me dejo el cerebro del revés y comence a pensar.
       </p>
-      <p className="text-base sm:text-lg font-normal">
+      <p>
         ¿Qué me habría gustado leer sobre Juan? ¿Como tendría que haberse vendido Juan para que ni me pensase 
         el darle like? 
       </p>
-      <p className="text-base sm:text-lg font-normal">
+      <p>
         Como mínimo, algo de texto. Redactado correctamente quiero decir, no una lista. 
       </p>
-      <p className="text-base sm:text-lg font-normal">
+      <p>
         Luego, algo gracioso, ofensivo e ingenioso que llamase mi atención. Por ejemplo un chiste sobre comunistas.
       </p>
-      <p className="text-base sm:text-lg font-normal">
+      <p>
         Y después, algo confuso que me dejase pensando un buen rato y que me generase la necesidad 
         de hacer match con Juan aunque fuese solo para preguntarle y salir de dudas. Algo como esto.
       </p>
-      <p className="text-sm sm:text-base font-normal italic">
+      <p className="italic">
         Juan
       </p>
-      <p className="text-sm sm:text-base font-normal italic">
+      <p className="italic">
         Me han bastado 28 inviernos para saber que lo que busco es una cabra. Porque sube montañas, 
         ya sabes.
 
       </p>
-      <p className="text-sm sm:text-base font-normal italic">
+      <p className="italic">
         ¿Que no te mola disfrutar una pinta mientras hablamos de buenos libros? Lo siento, no le gustarías a mi perro.
       </p>
-      <p className="text-sm sm:text-base font-normal italic">
+      <p className="italic">
         Si mides más de 1,81m échate desodorante.
       </p>
-      <p className="text-base sm:text-lg font-normal">
+      <p>
         Fíjate en lo siguiente.
       </p>
-      <p className="text-base sm:text-lg font-normal">
+      <p>
         La primera descripción (la de Juan) no invita a absolutamente nada. Como mucho, si te 
         gusta alguna de las cosas que le gustan a Juan o te mueres de ganas por que alguien 
         vaya a la montaña contigo y te secuestre, igual le escribes un -Hola que tal- e iniciais una conversación 
         de besugos que es probable que no llegue a ningún sitio.
       </p>
-      <p className="text-base sm:text-lg font-normal">
+      <p>
         Esta segunda es diferente. Dice más cosas sobre Juan e invita a que le mandes un mensaje 
         más interesante para iniciar la conversación. 
       </p>
-      <p className="text-base sm:text-lg font-normal">
+      <p>
         Si te mola la montaña, ¿Qué le dirías?
       </p>
-      <p className="text-base sm:text-lg font-normal">
+      <p>
         Pues que eres una cabra.
       </p>
-      <p className="text-base sm:text-lg font-normal">
+      <p>
         O yo, que soy más gallega que la empanada de calamares, le diria que si le gusta follar cabras.
       </p>
-      <p className="text-base sm:text-lg font-normal">
+      <p>
         ¿Si te mola la cerveza y los libros? Pues que le gustarías a su perro.
       </p>
-      <p className="text-base sm:text-lg font-normal">
+      <p>
         ¿Si mides mas de 1,81? Probablemente te rayarías y le escribirías para descubrir 
         que coño te quiere decir. 
       </p>
-      <p className="text-base sm:text-lg font-normal">
+      <p>
         Eso, o eres muy fino, has entendido el chiste, y le escribes 
         para decirle que no se preocupe, que tu sobaco huele muy bien.
       </p>
-      <p className="text-base sm:text-lg font-normal">
+      <p>
         ¿Y si mides menos de 1,81? Pues le escribirías también porque te ha hecho gracia la coña.
       </p>
-      <p className="text-base sm:text-lg font-normal">
+      <p>
         ¿Ves la diferencia? 
       </p>
-      <p className="text-base sm:text-lg font-normal">
+      <p>
         Las caracteristicas no interesan a nadie. Son aburridas y no llaman la atención. Pero si 
         coges esas caracteristicas, las haces tuyas, las envuelves, y redactas un texto que haga que el lector se quede 
         con ganas de más, la cosa cambia. Captas la atención, dices de forma implicita algo más 
         sobre como eres y dejas al lector a medias como te dejo a ti tu ex. Igual.
       </p>
-      <p className="text-base sm:text-lg font-normal">
+      <p>
         Esto mismo, aplicado a un sitio web, a un perfil de Linkedin a un anuncio, a lo que sea, es oro.
       </p>
-      <p className="text-base sm:text-lg font-normal">
+      <p>
         Juan y yo, gracias a Dios, no llegamos a hablar nunca, y seguro que al leer esto habrá pasado una de estas tres cosas:
       </p>
-      <ul className="list-disc pl-6 text-base sm:text-lg font-normal space-y-4">
+      <ul className="list-disc pl-6 space-y-4">
         <li>Que ya sepas esto y estes ganando dinero con ello y follando más</li>
         <li>Que no lo sepas, corras a cambiar todos los textos de tu web y empieces a ganarlo y a follar más</li>
         <li>Que no lo sepas, lo leas, arrugues la nariz y vayas a canva a buscar unas plantillas 
@@ -178,13 +178,13 @@ export default function Bienvenido() {
           el favor de desuscribirte cuanto antes) 
         </li>
       </ul>
-      <p className="text-base sm:text-lg font-normal">
+      <p>
         Sea como sea, te contaré más cosas. Por email, claro está.
       </p>
-      <p className="text-base sm:text-lg font-normal">
+      <p>
         Por el momento, te pediría que dejases de poner lo comprometido que estás con tu cliente en tu página web. Eso si quieres vender más, claro.
       </p>
-      <p className="text-base sm:text-lg font-normal">
+      <p>
         Ya se que tus clientes son únicos y que tu negocio es especial, pero hazme el favor.
       </p>
     </main>
