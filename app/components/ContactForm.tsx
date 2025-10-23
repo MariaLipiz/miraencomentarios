@@ -21,6 +21,17 @@ const MOTIVOS = [
   'ni idea, solo quiero saber de que va esto',
 ] as const;
 
+// Util para serializar errores sin usar `any`
+function getErrorMessage(err: unknown): string {
+  if (err instanceof Error) return err.message;
+  if (typeof err === 'string') return err;
+  try {
+    return JSON.stringify(err);
+  } catch {
+    return 'Error de envío';
+  }
+}
+
 export default function ContactForm({ className = '' }: Props) {
   const [loading, setLoading] = useState(false);
   const [ok, setOk] = useState<boolean | null>(null);
@@ -54,13 +65,15 @@ export default function ContactForm({ className = '' }: Props) {
         headers: { 'content-type': 'application/json' },
         body: JSON.stringify(payload),
       });
-      const json = await res.json();
-      if (!res.ok || !json.ok) throw new Error(json.error || 'Error de envío');
+      const json = (await res.json()) as { ok?: boolean; error?: string };
+      if (!res.ok || !json.ok) {
+        throw new Error(json.error || 'Error de envío');
+      }
       setOk(true);
       form.reset();
-    } catch (err: any) {
+    } catch (err: unknown) {
       setOk(false);
-      setError(err.message || 'Error de envío');
+      setError(getErrorMessage(err));
     } finally {
       setLoading(false);
     }
