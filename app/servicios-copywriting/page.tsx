@@ -66,8 +66,12 @@ export const metadata = {
   
         {/* CONTEXTO */}
         <p>
-          Luego te contaré una historia de cuando vivía metida en una secta y tuve que montar mi primer negocio para escapar, que si entiendes bien, te ayudará a ser un profesional más valorado en lo tuyo. Y si no la entiendes pues almenos 
-          igual te entretienes.
+          Luego te contaré una historia de cuando vivía metida en una secta y tuve que montar 
+          mi primer negocio para escapar, que si entiendes bien, te ayudará a ser un profesional más valorado en lo tuyo. 
+          
+        </p>
+        <p>
+          Y si no la entiendes pues echas el rato. Yo que se.
         </p>
         <p>
           Pero primero te pongo en contexto.
